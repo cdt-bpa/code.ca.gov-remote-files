@@ -3,7 +3,7 @@
     "name": "California Department of Technology",
     "acronym": "CDT",
     "website": "https://cdt.ca.gov/",
-    "codeUrl": "https://www.usda.gov/code.json",
+    "codeUrl": "https://raw.githubusercontent.com/ODI-BPA/code.ca.gov/master/code.json",
     "fallback_file": "CDT.json",
     "requirements": {
       "agencyWidePolicy": 0.75,
