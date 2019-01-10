@@ -1,0 +1,17 @@
+[{
+    "id": 1,
+    "name": "California Department of Technology",
+    "acronym": "CDT",
+    "website": "https://cdt.ca.gov/",
+    "codeUrl": "https://www.usda.gov/code.json",
+    "fallback_file": "CDT.json",
+    "requirements": {
+      "agencyWidePolicy": 0.75,
+      "openSourceRequirement": 0,
+      "inventoryRequirement": 0,
+      "schemaFormat": 0.5,
+      "overallCompliance": 0
+    },
+    "complianceDashboard": true
+  }
+]
