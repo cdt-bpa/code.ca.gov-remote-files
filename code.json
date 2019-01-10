@@ -1,0 +1,351 @@
+{
+  "agency": "CDT",
+  "version": "0.0.1",
+  "measurementType": {
+    "method": "projects"
+  },
+  "releases": [
+    {
+      "organization": "CDT",
+      "name": "socrata-meta",
+      "description": "Python code to quickly retrieve metadata from a SOCRATA Open Data website",
+      "repositoryURL": "https://github.com/Office-of-Digital-Innovation/socrata-meta",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "none",
+            "name": "none"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 0,
+      "tags": [
+        "Python",
+        "Jupyter Notebook",
+        "script",
+        "metadata"
+      ],
+      "contact": {
+        "email": "",
+        "name": ""
+      },
+      "status": "Developement",
+      "vcs": "git",
+      "languages": [
+        "Python",
+        "Jupyter Notebook"
+      ],
+      "homepageURL": "https://github.com/Office-of-Digital-Innovation/socrata-meta",
+      "date": {
+        "created": "2016-07-28",
+        "lastModified": "2016-07-28",
+        "metadataLastUpdated": "2019-01-10"
+      }
+    },
+    {
+      "organization": "CDT",
+      "name": "ca-jobs-schema",
+      "description": "Exploring ALL California Job Classification Schemas",
+      "repositoryURL": "https://github.com/Office-of-Digital-Innovation/ca-jobs-schema",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "none",
+            "name": "none"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 0,
+      "tags": [
+        "Python",
+        "CoffeeScript",
+        "Jupyter Notebook"
+      ],
+      "contact": {
+        "email": "",
+        "name": ""
+      },
+      "status": "Production",
+      "vcs": "git",
+      "languages": [
+        "Python",
+        "Jupyter Notebook",
+        "HTML",
+        "CoffeeScript",
+        "CSS",
+        "Ruby",
+        "HTML",
+        "Javascript"
+      ],
+      "homepageURL": "https://github.com/Office-of-Digital-Innovation/ca-jobs-schema",
+      "date": {
+        "created": "2016-07-28",
+        "lastModified": "2016-07-28",
+        "metadataLastUpdated": "2019-01-10"
+      }
+    },
+    {
+      "organization": "CDT",
+      "name": "Hack4Sac",
+      "description": "Hack4Sac Project Template",
+      "repositoryURL": "https://github.com/Office-of-Digital-Innovation/Hack4Sac",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/Office-of-Digital-Innovation/Hack4Sac/blob/master/LICENSE",
+            "name": "MIT"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 0,
+      "tags": [
+        "Hack4Sac",
+        "Competition",
+        "template"
+      ],
+      "contact": {
+        "email": "",
+        "name": ""
+      },
+      "status": "Production",
+      "vcs": "git",
+      "languages": [
+
+      ],
+      "homepageURL": "https://github.com/Office-of-Digital-Innovation/Hack4Sac",
+      "date": {
+        "created": "2016-2-26",
+        "lastModified": "2017-2-26",
+        "metadataLastUpdated": "2019-1-10"
+      }
+    },
+    {
+      "organization": "CDT",
+      "name": "socrata-twitter-update",
+      "description": "Python + flask application that tweets daily updates of new/modified SOCRATA datasets",
+      "repositoryURL": "https://github.com/Office-of-Digital-Innovation/socrata-twitter-update",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "none",
+            "name": "none"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 0,
+      "tags": [
+        "Jupyter Notebook",
+        "Python",
+        "Twitter"
+      ],
+      "contact": {
+        "email": "",
+        "name": ""
+      },
+      "status": "Production",
+      "vcs": "git",
+      "languages": [
+        "Jupyter Notebook",
+        "Python"
+      ],
+      "homepageURL": "https://github.com/Office-of-Digital-Innovation/socrata-twitter-update",
+      "date": {
+        "created": "2015-06-17",
+        "lastModified": "2015-06-17",
+        "metadataLastUpdated": "2019-01-10"
+      }
+    },
+    {
+      "organization": "CDT",
+      "name": "city-data-portal-conversion",
+      "description": "City of Sacramento data portal KML conversion.",
+      "repositoryURL": "https://github.com/Office-of-Digital-Innovation/city-data-portal-conversion",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "none",
+            "name": "none"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 0,
+      "tags": [
+        "HTML",
+        "Python",
+        "CDT",
+        "Conversation",
+        "City Data"
+      ],
+      "contact": {
+        "email": "",
+        "name": ""
+      },
+      "status": "Beta",
+      "vcs": "git",
+      "languages": [
+        "python",
+        "HTML"
+      ],
+      "homepageURL": "https://github.com/Office-of-Digital-Innovation/city-data-portal-conversion",
+      "date": {
+        "created": "2014-01-16",
+        "lastModified": "2014-01-16",
+        "metadataLastUpdated": "2019-01-10"
+      }
+    },
+    {
+      "organization": "ODI",
+      "name": "California Innovation Website",
+      "description": "Dataset search for California Innovation",
+      "repositoryURL": "https://github.com/Office-of-Digital-Innovation/website",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/Office-of-Digital-Innovation/website/blob/master/LICENSE",
+            "name": "MIT"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 0,
+      "tags": [
+        "Innovation",
+        "Datasets",
+        "Javascript"
+      ],
+      "contact": {
+        "email": "",
+        "name": ""
+      },
+      "status": "Beta",
+      "vcs": "git",
+      "languages": [
+        "JavaScript",
+        "CSS",
+        "HTML",
+        "Ruby"
+      ],
+      "homepageURL": "https://github.com/Office-of-Digital-Innovation/website",
+      "date": {
+        "created": "2014-12-19",
+        "lastModified": "2016-09-15",
+        "metadataLastUpdated": "2019-01-10"
+      }
+    },
+    {
+      "organization": "ODI",
+      "name": "California-State-Template-v5",
+      "description": "The California State Template is an HTML template and website standard offered by the California Department of Technology to state agencies and departments within the State of California and beyond. Please visit webtools.ca.gov for more informatio",
+      "tags": [
+        "Template",
+        "CDT",
+        "ODI",
+        "HTML"
+      ],
+      "contact": {
+        "email": ""
+      },
+      "status": "Production",
+      "vcs": "git",
+      "languages": [
+        "JavaScript",
+        "CSS",
+        "HTML"
+      ],
+      "downloadURL": "https://github.com/Office-of-Digital-Innovation/California-State-Template-v5/archive/master.zip",
+      "repositoryURL": "https://github.com/Office-of-Digital-Innovation/California-State-Template-v5",
+      "homepageURL": "https://github.com/Office-of-Digital-Innovation/California-State-Template-v5",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "none",
+            "name": "none"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 0,
+      "date": {
+        "created": "2016-12-09",
+        "lastModified": "2019-10-01",
+        "metadataLastUpdated": "2019-10-01"
+      }
+    },
+    {
+      "organization": "ODI",
+      "name": "California-State-Template-MVC-v5",
+      "description": "The California State Template is a .NET MVC template and website standard offered by the California Department of Technology to state agencies and departments within the State of California and beyond. Please visit webtools.ca.gov for more information.",
+      "tags": [
+        "ODI",
+        "source code",
+        "Template",
+        "HTML"
+      ],
+      "contact": {
+        "email": ""
+      },
+      "status": "Production",
+      "vcs": "git",
+      "languages": [
+        "JavaScript",
+        "CSS",
+        "HTML"
+      ],
+      "downloadURL": "https://github.com/Office-of-Digital-Innovation/California-State-Template-MVC-v5/archive/master.zip",
+      "repositoryURL": "https://github.com/Office-of-Digital-Innovation/California-State-Template-MVC-v5",
+      "homepageURL": "https://github.com/Office-of-Digital-Innovation/California-State-Template-MVC-v5",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "none",
+            "name": "none"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 0,
+      "date": {
+        "created": "2016-12-09",
+        "lastModified": "2018-12-29",
+        "metadataLastUpdated": "2019-01-10"
+      }
+    },
+    {
+      "organization": "ODI",
+      "name": "California-State-Template-Web-Forms",
+      "description": "The California State Template is a .NET WebForms template and website standard offered by the California Department of Technology to state agencies and departments within the State of California and beyond. Please visit webtools.ca.gov for more information.",
+      "tags": [
+        "Template",
+        "WebForms"
+      ],
+      "contact": {
+        "email": "Info.Eservices@state.ca.gov"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "downloadURL": "https://github.com/Office-of-Digital-Innovation/California-State-Template-Web-Forms/archive/master.zip",
+      "repositoryURL": "https://github.com/Office-of-Digital-Innovation/California-State-Template-Web-Forms",
+      "homepageURL": "https://github.com/Office-of-Digital-Innovation/California-State-Template-Web-Forms",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "none",
+            "name": "none"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 0,
+      "date": {
+        "created": "2017-03-09",
+        "lastModified": "2018-12-28",
+        "metadataLastUpdated": "2019-01-10"
+      }
+    }
+  ]
+}
