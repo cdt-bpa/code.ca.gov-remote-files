@@ -1,6 +1,6 @@
 {
     "agency": "CDT",
-    "version": "2.0.0",
+    "version": "0.0.1",
     "measurementType": {
       "method": "projects"
     },
@@ -321,6 +321,10 @@
         },
         "status": "Production",
         "vcs": "git",
+        "languages": [
+          "JavaScript",
+          "CSS",
+        ],
         "downloadURL": "https://github.com/Office-of-Digital-Innovation/California-State-Template-Web-Forms/archive/master.zip",
         "repositoryURL": "https://github.com/Office-of-Digital-Innovation/California-State-Template-Web-Forms",
         "homepageURL": "https://github.com/Office-of-Digital-Innovation/California-State-Template-Web-Forms",
@@ -337,6 +341,336 @@
           "created": "2017-03-09",
           "lastModified": "2018-12-28",
           "metadataLastUpdated": "2019-01-10"
+        }
+      },
+      {
+        "organization": "ODI",
+        "name": "California-State-Template-PHP",
+        "description": "The California State Template is a PHP template and website standard offered by the California Department of Technology to state agencies and departments within the State of California and beyond. Please visit webtools.ca.gov for more information.",
+        "tags": [
+          "Template",
+          "WebForms",
+          "PHP",
+          "Beta"
+        ],
+        "contact": {
+          "email": "Info.Eservices@state.ca.gov"
+        },
+        "status": "Beta",
+        "vcs": "git",
+        "languages": [
+          "JavaScript",
+          "CSS",
+          "PHP",
+          "Hack"
+        ],
+        "downloadURL": "https://github.com/Office-of-Digital-Innovation/California-State-Template-PHP/archive/master.zip",
+        "repositoryURL": "https://github.com/Office-of-Digital-Innovation/California-State-Template-PHP",
+        "homepageURL": "https://github.com/Office-of-Digital-Innovation/California-State-Template-PHP",
+        "permissions": {
+          "licenses": [
+            {
+              "name": "none"
+            }
+          ],
+          "usageType": "openSource"
+        },
+        "laborHours": 0,
+        "date": {
+          "created": "2017-03-09",
+          "lastModified": "2018-12-19",
+          "metadataLastUpdated": "2019-01-11"
+        }
+      },
+      {
+        "organization": "ODI",
+        "name": "DSIA-Civic-Testing-Portal",
+        "description": "Digital Services Academy - (2018) Team Fusion Prototype",
+        "tags": [
+          "Testing",
+          "Portal",
+          "Civic",
+          "Beta"
+        ],
+        "contact": {
+          "email": ""
+        },
+        "status": "Beta",
+        "vcs": "git",
+        "languages": [
+          "JavaScript",
+          "CSS",
+          "HTML",
+          "C#"
+        ],
+        "downloadURL": "https://github.com/Office-of-Digital-Innovation/DSIA-Civic-Testing-Portal/archive/cafusion-poc.zip",
+        "repositoryURL": "https://github.com/Office-of-Digital-Innovation/DSIA-Civic-Testing-Portal",
+        "homepageURL": "https://github.com/Office-of-Digital-Innovation/DSIA-Civic-Testing-Portal",
+        "permissions": {
+          "licenses": [
+            {
+              "name": "none"
+            }
+          ],
+          "usageType": "openSource"
+        },
+        "laborHours": 0,
+        "date": {
+          "created": "2016-05-12",
+          "lastModified": "2018-09-11",
+          "metadataLastUpdated": "2019-01-11"
+        }
+      },
+      {
+        "organization": "ODI",
+        "name": "DSIA-MyCA",
+        "description": "DSIA - MyCA is Single Sign On (SSO) for State services.",
+        "tags": [
+          "Single Sign On",
+          "Account",
+          "Services",
+          "Prototype"
+        ],
+        "contact": {
+          "email": ""
+        },
+        "status": "Beta",
+        "vcs": "git",
+        "downloadURL": "https://github.com/Office-of-Digital-Innovation/California-State-Template-PHP/archive/master.zip",
+        "repositoryURL": "https://github.com/Office-of-Digital-Innovation/California-State-Template-PHP",
+        "homepageURL": "https://github.com/Office-of-Digital-Innovation/California-State-Template-PHP",
+        "permissions": {
+          "licenses": [
+            {
+              "name": "none"
+            }
+          ],
+          "usageType": "openSource"
+        },
+        "laborHours": 0,
+        "date": {
+          "created": "2018-08-06",
+          "lastModified": "2018-08-06",
+          "metadataLastUpdated": "2019-01-11"
+        }
+      },
+      {
+        "organization": "ODI",
+        "name": "DSIA-TalentHub",
+        "description": "Talent Hub creates an avenue for staff looking for new experiences, and allows for project owners or managers to find a single resource or build an entire IT dream team.",
+        "tags": [
+          "Platform"
+        ],
+        "contact": {
+          "email": ""
+        },
+        "status": "Beta",
+        "vcs": "git",
+        "downloadURL": "https://github.com/Office-of-Digital-Innovation/DSIA-TalentHub/archive/master.zip",
+        "repositoryURL": "https://github.com/Office-of-Digital-Innovation/DSIA-TalentHub",
+        "homepageURL": "https://github.com/Office-of-Digital-Innovation/DSIA-TalentHub",
+        "permissions": {
+          "licenses": [
+            {
+              "name": "none"
+            }
+          ],
+          "usageType": "openSource"
+        },
+        "laborHours": 0,
+        "date": {
+          "created": "2018-08-07",
+          "lastModified": "2018-09-11",
+          "metadataLastUpdated": "2019-01-11"
+        }
+      },
+      {
+        "organization": "ODI",
+        "name": "DSIA-CalSAFE",
+        "description": "The CalSAFE application is intended to augment existing emergency notification systems in California with additional functionality.",
+        "tags": [
+          "Innovation Academy",
+          ""
+        ],
+        "contact": {
+          "email": ""
+        },
+        "status": "Beta",
+        "vcs": "git",
+        "languages": [
+          "TypeScript",
+          "JavaScript",
+          "CSS",
+          "HTML",
+          "C#"
+        ],
+        "downloadURL": "https://github.com/Office-of-Digital-Innovation/DSIA-CalSAFE/archive/master.zip",
+        "repositoryURL": "https://github.com/Office-of-Digital-Innovation/DSIA-CalSAFE",
+        "homepageURL": "https://github.com/Office-of-Digital-Innovation/DSIA-CalSAFE",
+        "permissions": {
+          "licenses": [
+            {
+              "name": "none"
+            }
+          ],
+          "usageType": "openSource"
+        },
+        "laborHours": 0,
+        "date": {
+          "created": "2018-09-09",
+          "lastModified": "2018-09-26",
+          "metadataLastUpdated": "2019-01-11"
+        }
+      },
+      {
+        "organization": "ODI",
+        "name": "wordpress-quickstart",
+        "description": "Quickstart for deploying WordPress to OpenShift 3.",
+        "tags": [
+          "Wordpress",
+          "Deployment"
+        ],
+        "contact": {
+          "email": ""
+        },
+        "status": "Beta",
+        "vcs": "git",
+        "languages": [
+          "Shell"
+        ],
+        "downloadURL": "https://github.com/Office-of-Digital-Innovation/wordpress-quickstart/archive/master.zip",
+        "repositoryURL": "https://github.com/Office-of-Digital-Innovation/wordpress-quickstart",
+        "homepageURL": "https://github.com/Office-of-Digital-Innovation/wordpress-quickstart",
+        "permissions": {
+          "licenses": [
+            {
+              "name": "none"
+            }
+          ],
+          "usageType": "openSource"
+        },
+        "laborHours": 0,
+        "date": {
+          "created": "2018-10-04",
+          "lastModified": "2018-10-11",
+          "metadataLastUpdated": "2019-01-11"
+        }
+      },
+      {
+        "organization": "ODI",
+        "name": "CAWeb-Core",
+        "description": "CA State Template WordPress Theme",
+        "tags": [
+          "Wordpress",
+          "Theme",
+          "Template"
+        ],
+        "contact": {
+          "email": ""
+        },
+        "status": "Production",
+        "vcs": "git",
+        "languages": [
+          "CSS",
+          "JavaScript",
+          "PHP"
+        ],
+        "downloadURL": "https://github.com/Office-of-Digital-Innovation/CAWeb-Core/archive/master.zip",
+        "repositoryURL": "https://github.com/Office-of-Digital-Innovation/CAWeb-Core",
+        "homepageURL": "https://github.com/Office-of-Digital-Innovation/CAWeb-Core",
+        "permissions": {
+          "licenses": [
+            {
+              "name": "none"
+            }
+          ],
+          "usageType": "openSource"
+        },
+        "laborHours": 0,
+        "date": {
+          "created": "2018-10-17",
+          "lastModified": "2018-12-21",
+          "metadataLastUpdated": "2019-01-11"
+        }
+      },
+      {
+        "organization": "ODI",
+        "name": "urbanfootprint",
+        "description": "UrbanFootprint 1.5 is a web-based, open source, scenario planning platform.",
+        "tags": [
+          "Planning",
+          "Platform"
+        ],
+        "contact": {
+          "email": ""
+        },
+        "status": "Production",
+        "vcs": "git",
+        "languages": [
+          "Python",
+          "JavaScript",
+          "HTML",
+          "CSS",
+          "Shell",
+          "Ruby"
+        ],
+        "downloadURL": "https://github.com/Office-of-Digital-Innovation/urbanfootprint/archive/master.zip",
+        "repositoryURL": "https://github.com/Office-of-Digital-Innovation/urbanfootprint",
+        "homepageURL": "https://github.com/Office-of-Digital-Innovation/urbanfootprint",
+        "permissions": {
+          "licenses": [
+            {
+              "URL": "https://github.com/Office-of-Digital-Innovation/website/blob/master/LICENSE",
+              "name": "GNU General Public License v3.0 only"
+            }
+          ],
+          "usageType": "openSource"
+        },
+        "laborHours": 0,
+        "date": {
+          "created": "2018-10-25",
+          "lastModified": "2018-10-25",
+          "metadataLastUpdated": "2019-01-11"
+        }
+      },
+      {
+        "organization": "ODI",
+        "name": "urbanfootprint",
+        "description": "UrbanFootprint 1.5 is a web-based, open source, scenario planning platform.",
+        "tags": [
+          "Planning",
+          "Platform"
+        ],
+        "contact": {
+          "email": ""
+        },
+        "status": "Production",
+        "vcs": "git",
+        "languages": [
+          "Python",
+          "JavaScript",
+          "HTML",
+          "CSS",
+          "Shell",
+          "Ruby"
+        ],
+        "downloadURL": "https://github.com/Office-of-Digital-Innovation/urbanfootprint/archive/master.zip",
+        "repositoryURL": "https://github.com/Office-of-Digital-Innovation/urbanfootprint",
+        "homepageURL": "https://github.com/Office-of-Digital-Innovation/urbanfootprint",
+        "permissions": {
+          "licenses": [
+            {
+              "URL": "https://github.com/Office-of-Digital-Innovation/website/blob/master/LICENSE",
+              "name": "GNU General Public License v3.0 only"
+            }
+          ],
+          "usageType": "openSource"
+        },
+        "laborHours": 0,
+        "date": {
+          "created": "2018-10-25",
+          "lastModified": "2018-10-25",
+          "metadataLastUpdated": "2019-01-11"
         }
       }
     ]
