@@ -1,17 +1,34 @@
-[{
-    "id": 1,
-    "name": "California Department of Technology",
-    "acronym": "CDT",
-    "website": "https://cdt.ca.gov/",
-    "codeUrl": "https://raw.githubusercontent.com/ODI-BPA/code.ca.gov/master/code.json",
-    "fallback_file": "CDT.json",
-    "requirements": {
-      "agencyWidePolicy": 0.75,
-      "openSourceRequirement": 0,
-      "inventoryRequirement": 0,
-      "schemaFormat": 0.5,
-      "overallCompliance": 0
+[
+    {
+        "id": 1,
+        "name": "California Department of Technology",
+        "acronym": "CDT",
+        "website": "https://cdt.ca.gov/",
+        "codeUrl": "https://raw.githubusercontent.com/ODI-BPA/code.ca.gov/master/code.json",
+        "fallback_file": "CDT.json",
+        "requirements": {
+          "agencyWidePolicy": 0.75,
+          "openSourceRequirement": 0,
+          "inventoryRequirement": 0,
+          "schemaFormat": 0.5,
+          "overallCompliance": 0
+        },
+        "complianceDashboard": true
     },
-    "complianceDashboard": true
-  }
+    {
+        "id": 2,
+        "name": "Child Welfare Digital Services",
+        "acronym": "CWDS",
+        "website": "https://cwds.ca.gov",
+        "codeUrl": "https://raw.githubusercontent.com/ODI-BPA/code.ca.gov/master/CWDS.json",
+        "fallback_file": "CWDS.json",
+        "requirements": {
+          "agencyWidePolicy": 0.75,
+          "openSourceRequirement": 0,
+          "inventoryRequirement": 0,
+          "schemaFormat": 0.5,
+          "overallCompliance": 0
+        },
+        "complianceDashboard": true
+    }
 ]
