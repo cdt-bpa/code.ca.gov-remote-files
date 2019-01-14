@@ -1,249 +1,1751 @@
 {
-    "agency": "CWDS",
-    "version": "2.0.0",
-    "measurementType": {
-      "method": "projects"
-    },
-    "releases": [
-        {
-            "repositoryURL":"https://github.com/ca-cwds/API"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/playbook"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/government-service-design-manual"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/Communications"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/service-manual-publisher"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/Agile"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/PMO"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/web-design-standards"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/CA-ADPQ"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/webdocs"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/intake"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/intake-ansible-playbooks"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/devops"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/intake_api"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/Information-Security"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/intake-pm-mocks"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/BiddersLibrary"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/jobs"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/perry"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/intake-ux"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/api-core"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/swagger_specification"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/research-design"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/acceptance_testing"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/CALS-DEPRECATED"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/cals-mock-api"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/CALS"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/phineas-suite"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/datamonger"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/buzz"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/Sandbox"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/cals-api"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/dashboard"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/cwds-authentication"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/Production"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/dora"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/twixter"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/CALS-design"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/react-widgets"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/woodduck-rails"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/react-clipboard"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/geo-services-api"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/case-management"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/jenkins-acceptance-test-builds"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/react-wood-duck"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/dms-api"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/identity-provider"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/cals-acceptance-testing"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/forms-api"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/homebrew-cwds"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/Preview"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/methods"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/case-management-api"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/intake-api-smoketest"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/development-practices"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/react-autosuggest"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/jenkins-performance-test-build"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/CWDS-Service-Desk"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/Microservices"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/forms-api-client"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/cals-api-client"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/formation-app"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/intake-docker-base-images"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/county-admin"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/cwds-jobs"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/cans"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/cans-api"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/tag-prototype"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/cognito"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/datamgmt"
-        },
-        {
-            "repositoryUrl":"https://github.com/ca-cwds/cws-cms-migrations"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/devops-ci-test"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/capybara-accessible"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/cognito-custom-login"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/design-system"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/rubyonrails"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/jenkins-pipeline-utils"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/dora_api"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/system_information"
-        },
-        {
-            "repositoryURL":"https://github.com/ca-cwds/app-database"
-        }
-    ]
+	"agency": "CWDS",
+	"version": "2.0.0",
+	"measurementType": {
+		"method": "projects"
+	},
+	"releases": [{
+			"organization": "CWDS",
+			"name": "acceptance_testing",
+			"description": "acceptance testing",
+			"repositoryURL": "https://github.com/ca-cwds/acceptance_testing",
+			"homepageURL": "https://github.com/ca-cwds/acceptance_testing",
+			"date": {
+				"created": "2017-02-01T19:03:14Z",
+				"lastModified": "2019-01-11T21:51:04Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": "Ruby",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "Agile",
+			"description": null,
+			"repositoryURL": "https://github.com/ca-cwds/Agile",
+			"homepageURL": "https://github.com/ca-cwds/Agile",
+			"date": {
+				"created": "2016-04-06T22:58:29Z",
+				"lastModified": "2017-03-16T18:41:36Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": null,
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "API",
+			"description": "Application Program Interface",
+			"repositoryURL": "https://github.com/ca-cwds/API",
+			"homepageURL": "https://github.com/ca-cwds/API",
+			"date": {
+				"created": "2015-12-13T07:04:26Z",
+				"lastModified": "2019-01-07T23:49:16Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": "Java",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "api-core",
+			"description": "Core classes used across api projects",
+			"repositoryURL": "https://github.com/ca-cwds/api-core",
+			"homepageURL": "https://github.com/ca-cwds/api-core",
+			"date": {
+				"created": "2016-12-31T03:46:08Z",
+				"lastModified": "2018-12-31T18:05:29Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": "Java",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "app-database",
+			"description": null,
+			"repositoryURL": "https://github.com/ca-cwds/app-database",
+			"homepageURL": "https://github.com/ca-cwds/app-database",
+			"date": {
+				"created": "2018-11-14T22:40:50Z",
+				"lastModified": "2019-01-03T22:04:33Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "https://api.github.com/licenses/gpl-3.0",
+					"name": "GNU General Public License v3.0"
+				}]
+			},
+			"languages": "Shell",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "BiddersLibrary",
+			"description": "CCLD Website",
+			"repositoryURL": "https://github.com/ca-cwds/BiddersLibrary",
+			"homepageURL": "https://github.com/ca-cwds/BiddersLibrary",
+			"date": {
+				"created": "2016-11-21T23:37:59Z",
+				"lastModified": "2016-11-30T18:38:09Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": "ASP",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "buzz",
+			"description": "Buzz is a test harness for the Intake API",
+			"repositoryURL": "https://github.com/ca-cwds/buzz",
+			"homepageURL": "https://github.com/ca-cwds/buzz",
+			"date": {
+				"created": "2017-04-04T17:13:31Z",
+				"lastModified": "2017-04-06T04:43:33Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": "Groovy",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "CA-ADPQ",
+			"description": "Archive of prototype repositories from the CHHS ADPQ RFI",
+			"repositoryURL": "https://github.com/ca-cwds/CA-ADPQ",
+			"homepageURL": "https://github.com/ca-cwds/CA-ADPQ",
+			"date": {
+				"created": "2016-07-28T15:52:00Z",
+				"lastModified": "2017-01-13T02:34:14Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": "PHP",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "CALS",
+			"description": "Certification, Approval, and Licensing Service - React+Rails application",
+			"repositoryURL": "https://github.com/ca-cwds/CALS",
+			"homepageURL": "https://github.com/ca-cwds/CALS",
+			"date": {
+				"created": "2017-03-16T20:43:57Z",
+				"lastModified": "2019-01-11T07:19:47Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "https://api.github.com/licenses/agpl-3.0",
+					"name": "GNU Affero General Public License v3.0"
+				}]
+			},
+			"languages": "JavaScript",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "cals-acceptance-testing",
+			"description": null,
+			"repositoryURL": "https://github.com/ca-cwds/cals-acceptance-testing",
+			"homepageURL": "https://github.com/ca-cwds/cals-acceptance-testing",
+			"date": {
+				"created": "2017-09-26T23:03:20Z",
+				"lastModified": "2017-10-03T22:03:24Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": "Ruby",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "cals-api",
+			"description": "REST API to support CALS Digital Service",
+			"repositoryURL": "https://github.com/ca-cwds/cals-api",
+			"homepageURL": "https://github.com/ca-cwds/cals-api",
+			"date": {
+				"created": "2017-04-20T23:52:23Z",
+				"lastModified": "2019-01-07T19:57:40Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "Other"
+				}]
+			},
+			"languages": "Java",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "cals-api-client",
+			"description": "JavaScript API client generated with swagger-codegen",
+			"repositoryURL": "https://github.com/ca-cwds/cals-api-client",
+			"homepageURL": "https://github.com/ca-cwds/cals-api-client",
+			"date": {
+				"created": "2018-02-14T22:12:10Z",
+				"lastModified": "2018-02-14T22:15:36Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": "TypeScript",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "CALS-DEPRECATED",
+			"description": null,
+			"repositoryURL": "https://github.com/ca-cwds/CALS-DEPRECATED",
+			"homepageURL": "https://github.com/ca-cwds/CALS-DEPRECATED",
+			"date": {
+				"created": "2017-02-09T20:33:37Z",
+				"lastModified": "2019-01-04T23:52:13Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": "Ruby",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "CALS-design",
+			"description": null,
+			"repositoryURL": "https://github.com/ca-cwds/CALS-design",
+			"homepageURL": "https://github.com/ca-cwds/CALS-design",
+			"date": {
+				"created": "2017-05-31T04:17:33Z",
+				"lastModified": "2017-05-31T04:17:33Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": null,
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "cals-mock-api",
+			"description": "Mock api to facilitate CALS development",
+			"repositoryURL": "https://github.com/ca-cwds/cals-mock-api",
+			"homepageURL": "https://github.com/ca-cwds/cals-mock-api",
+			"date": {
+				"created": "2017-02-16T20:33:11Z",
+				"lastModified": "2018-04-17T18:21:27Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": "Ruby",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "cans",
+			"description": "The CANS application repository",
+			"repositoryURL": "https://github.com/ca-cwds/cans",
+			"homepageURL": "https://github.com/ca-cwds/cans",
+			"date": {
+				"created": "2018-05-03T18:11:52Z",
+				"lastModified": "2019-01-11T20:10:49Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "https://api.github.com/licenses/agpl-3.0",
+					"name": "GNU Affero General Public License v3.0"
+				}]
+			},
+			"languages": "JavaScript",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "cans-api",
+			"description": "CANS API Project",
+			"repositoryURL": "https://github.com/ca-cwds/cans-api",
+			"homepageURL": "https://github.com/ca-cwds/cans-api",
+			"date": {
+				"created": "2018-05-03T18:14:16Z",
+				"lastModified": "2019-01-11T22:12:19Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "Other"
+				}]
+			},
+			"languages": "Java",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "capybara-accessible",
+			"description": "Capybara driver that makes accessibility assertions in RSpec feature tests",
+			"repositoryURL": "https://github.com/ca-cwds/capybara-accessible",
+			"homepageURL": "https://github.com/ca-cwds/capybara-accessible",
+			"date": {
+				"created": "2018-06-25T18:10:23Z",
+				"lastModified": "2018-08-23T16:00:53Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "https://api.github.com/licenses/mit",
+					"name": "MIT License"
+				}]
+			},
+			"languages": "Ruby",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "case-management",
+			"description": null,
+			"repositoryURL": "https://github.com/ca-cwds/case-management",
+			"homepageURL": "https://github.com/ca-cwds/case-management",
+			"date": {
+				"created": "2017-07-26T21:14:03Z",
+				"lastModified": "2018-10-03T15:24:03Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "https://api.github.com/licenses/agpl-3.0",
+					"name": "GNU Affero General Public License v3.0"
+				}]
+			},
+			"languages": "JavaScript",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "case-management-api",
+			"description": null,
+			"repositoryURL": "https://github.com/ca-cwds/case-management-api",
+			"homepageURL": "https://github.com/ca-cwds/case-management-api",
+			"date": {
+				"created": "2017-10-27T18:19:50Z",
+				"lastModified": "2018-12-19T01:01:25Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "Other"
+				}]
+			},
+			"languages": "Java",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "cognito",
+			"description": null,
+			"repositoryURL": "https://github.com/ca-cwds/cognito",
+			"homepageURL": "https://github.com/ca-cwds/cognito",
+			"date": {
+				"created": "2018-05-29T19:29:41Z",
+				"lastModified": "2018-10-19T17:46:08Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": "JavaScript",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "cognito-custom-login",
+			"description": null,
+			"repositoryURL": "https://github.com/ca-cwds/cognito-custom-login",
+			"homepageURL": "https://github.com/ca-cwds/cognito-custom-login",
+			"date": {
+				"created": "2018-07-13T18:01:50Z",
+				"lastModified": "2019-01-11T23:31:40Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "https://api.github.com/licenses/agpl-3.0",
+					"name": "GNU Affero General Public License v3.0"
+				}]
+			},
+			"languages": "JavaScript",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "Communications",
+			"description": null,
+			"repositoryURL": "https://github.com/ca-cwds/Communications",
+			"homepageURL": "https://github.com/ca-cwds/Communications",
+			"date": {
+				"created": "2016-03-09T17:45:41Z",
+				"lastModified": "2016-08-02T17:53:10Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": null,
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "county-admin",
+			"description": "User administration app for CA CWDS project",
+			"repositoryURL": "https://github.com/ca-cwds/county-admin",
+			"homepageURL": "https://github.com/ca-cwds/county-admin",
+			"date": {
+				"created": "2018-04-26T20:03:31Z",
+				"lastModified": "2019-01-09T23:27:33Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "https://api.github.com/licenses/agpl-3.0",
+					"name": "GNU Affero General Public License v3.0"
+				}]
+			},
+			"languages": "JavaScript",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "cwds-authentication",
+			"description": "Ruby gem for authentication with cwds api",
+			"repositoryURL": "https://github.com/ca-cwds/cwds-authentication",
+			"homepageURL": "https://github.com/ca-cwds/cwds-authentication",
+			"date": {
+				"created": "2017-05-02T06:12:36Z",
+				"lastModified": "2019-01-03T18:31:13Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "https://api.github.com/licenses/agpl-3.0",
+					"name": "GNU Affero General Public License v3.0"
+				}]
+			},
+			"languages": "Ruby",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "cwds-jobs",
+			"description": "CARES ETL jobs engine",
+			"repositoryURL": "https://github.com/ca-cwds/cwds-jobs",
+			"homepageURL": "https://github.com/ca-cwds/cwds-jobs",
+			"date": {
+				"created": "2018-05-03T17:42:42Z",
+				"lastModified": "2019-01-11T00:50:31Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": "HTML",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "CWDS-Service-Desk",
+			"description": null,
+			"repositoryURL": "https://github.com/ca-cwds/CWDS-Service-Desk",
+			"homepageURL": "https://github.com/ca-cwds/CWDS-Service-Desk",
+			"date": {
+				"created": "2018-01-22T19:32:11Z",
+				"lastModified": "2018-12-21T22:04:25Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": null,
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "cwds-staging",
+			"description": "Staging site for ca-cwds",
+			"repositoryURL": "https://github.com/ca-cwds/cwds-staging",
+			"homepageURL": "https://github.com/ca-cwds/cwds-staging",
+			"date": {
+				"created": "2016-05-10T15:12:43Z",
+				"lastModified": "2018-12-12T22:07:43Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": null,
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "cwds_store",
+			"description": null,
+			"repositoryURL": "https://github.com/ca-cwds/cwds_store",
+			"homepageURL": "https://github.com/ca-cwds/cwds_store",
+			"date": {
+				"created": "2018-11-29T23:21:05Z",
+				"lastModified": "2019-01-08T19:17:19Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "https://api.github.com/licenses/agpl-3.0",
+					"name": "GNU Affero General Public License v3.0"
+				}]
+			},
+			"languages": "Ruby",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "cws-cms-migrations",
+			"description": "A collection of Liquibase migrations for deploying changes to the CWS-CMS set of databases.",
+			"repositoryURL": "https://github.com/ca-cwds/cws-cms-migrations",
+			"homepageURL": "https://github.com/ca-cwds/cws-cms-migrations",
+			"date": {
+				"created": "2018-06-01T22:07:38Z",
+				"lastModified": "2018-08-03T20:26:58Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": "SQLPL",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "dashboard",
+			"description": "Main landing page application to be used in all environments",
+			"repositoryURL": "https://github.com/ca-cwds/dashboard",
+			"homepageURL": "https://github.com/ca-cwds/dashboard",
+			"date": {
+				"created": "2017-04-24T20:27:57Z",
+				"lastModified": "2019-01-09T00:54:18Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "https://api.github.com/licenses/agpl-3.0",
+					"name": "GNU Affero General Public License v3.0"
+				}]
+			},
+			"languages": "Ruby",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "datamgmt",
+			"description": null,
+			"repositoryURL": "https://github.com/ca-cwds/datamgmt",
+			"homepageURL": "https://github.com/ca-cwds/datamgmt",
+			"date": {
+				"created": "2018-06-01T16:33:28Z",
+				"lastModified": "2018-06-01T16:33:31Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": null,
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "datamonger",
+			"description": "Fake data generator ... and db2 populator!",
+			"repositoryURL": "https://github.com/ca-cwds/datamonger",
+			"homepageURL": "https://github.com/ca-cwds/datamonger",
+			"date": {
+				"created": "2017-03-29T18:24:32Z",
+				"lastModified": "2017-03-29T18:24:46Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "https://api.github.com/licenses/mit",
+					"name": "MIT License"
+				}]
+			},
+			"languages": "Ruby",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "design-system",
+			"description": "Design System for CWDS CARES",
+			"repositoryURL": "https://github.com/ca-cwds/design-system",
+			"homepageURL": "https://github.com/ca-cwds/design-system",
+			"date": {
+				"created": "2018-08-17T21:55:11Z",
+				"lastModified": "2019-01-10T20:00:53Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "https://api.github.com/licenses/agpl-3.0",
+					"name": "GNU Affero General Public License v3.0"
+				}]
+			},
+			"languages": "JavaScript",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "development-practices",
+			"description": "A wiki for documenting current development practices for CWDS",
+			"repositoryURL": "https://github.com/ca-cwds/development-practices",
+			"homepageURL": "https://github.com/ca-cwds/development-practices",
+			"date": {
+				"created": "2017-11-13T04:04:07Z",
+				"lastModified": "2019-01-10T18:21:58Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "https://api.github.com/licenses/agpl-3.0",
+					"name": "GNU Affero General Public License v3.0"
+				}]
+			},
+			"languages": null,
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "devops",
+			"description": "CWDS DevOps Artifacts and Scripts",
+			"repositoryURL": "https://github.com/ca-cwds/devops",
+			"homepageURL": "https://github.com/ca-cwds/devops",
+			"date": {
+				"created": "2016-10-04T18:38:06Z",
+				"lastModified": "2018-12-18T23:30:00Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "https://api.github.com/licenses/gpl-3.0",
+					"name": "GNU General Public License v3.0"
+				}]
+			},
+			"languages": "Groovy",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "devops-ci-test",
+			"description": null,
+			"repositoryURL": "https://github.com/ca-cwds/devops-ci-test",
+			"homepageURL": "https://github.com/ca-cwds/devops-ci-test",
+			"date": {
+				"created": "2018-06-05T20:40:01Z",
+				"lastModified": "2018-06-07T23:09:07Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": "Java",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "dms-api",
+			"description": "Document Management System API",
+			"repositoryURL": "https://github.com/ca-cwds/dms-api",
+			"homepageURL": "https://github.com/ca-cwds/dms-api",
+			"date": {
+				"created": "2017-08-07T20:36:53Z",
+				"lastModified": "2018-11-28T18:19:37Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "Other"
+				}]
+			},
+			"languages": "HTML",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "dora",
+			"description": "Search API based on Elasticsearch Engine",
+			"repositoryURL": "https://github.com/ca-cwds/dora",
+			"homepageURL": "https://github.com/ca-cwds/dora",
+			"date": {
+				"created": "2017-05-05T00:46:20Z",
+				"lastModified": "2019-01-08T01:21:37Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": "HTML",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "dora_api",
+			"description": null,
+			"repositoryURL": "https://github.com/ca-cwds/dora_api",
+			"homepageURL": "https://github.com/ca-cwds/dora_api",
+			"date": {
+				"created": "2018-10-23T19:40:23Z",
+				"lastModified": "2019-01-11T21:52:57Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "https://api.github.com/licenses/agpl-3.0",
+					"name": "GNU Affero General Public License v3.0"
+				}]
+			},
+			"languages": "Ruby",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "formation-app",
+			"description": null,
+			"repositoryURL": "https://github.com/ca-cwds/formation-app",
+			"homepageURL": "https://github.com/ca-cwds/formation-app",
+			"date": {
+				"created": "2018-02-15T22:34:16Z",
+				"lastModified": "2018-02-15T22:41:48Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": "JavaScript",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "forms-api",
+			"description": "Forms Engine API to simplify REST API creation for PDF forms",
+			"repositoryURL": "https://github.com/ca-cwds/forms-api",
+			"homepageURL": "https://github.com/ca-cwds/forms-api",
+			"date": {
+				"created": "2017-09-28T20:39:06Z",
+				"lastModified": "2018-11-28T18:17:37Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "Other"
+				}]
+			},
+			"languages": "HTML",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "forms-api-client",
+			"description": "A javascript (typescript) client for the https://github.com/ca-cwds/forms-api service",
+			"repositoryURL": "https://github.com/ca-cwds/forms-api-client",
+			"homepageURL": "https://github.com/ca-cwds/forms-api-client",
+			"date": {
+				"created": "2018-02-13T18:11:04Z",
+				"lastModified": "2018-02-13T22:13:19Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": "TypeScript",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "geo-services-api",
+			"description": "Geo Services API for CWDS Technology Platform",
+			"repositoryURL": "https://github.com/ca-cwds/geo-services-api",
+			"homepageURL": "https://github.com/ca-cwds/geo-services-api",
+			"date": {
+				"created": "2017-07-07T02:37:54Z",
+				"lastModified": "2018-12-27T03:29:20Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "Other"
+				}]
+			},
+			"languages": "HTML",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "government-service-design-manual",
+			"description": "Government Service Design Manual",
+			"repositoryURL": "https://github.com/ca-cwds/government-service-design-manual",
+			"homepageURL": "https://github.com/ca-cwds/government-service-design-manual",
+			"date": {
+				"created": "2016-02-27T01:02:37Z",
+				"lastModified": "2016-02-27T01:02:39Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "Other"
+				}]
+			},
+			"languages": "CSS",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "homebrew-cwds",
+			"description": "CWDS\u0027s homebrew tap",
+			"repositoryURL": "https://github.com/ca-cwds/homebrew-cwds",
+			"homepageURL": "https://github.com/ca-cwds/homebrew-cwds",
+			"date": {
+				"created": "2017-10-06T17:44:54Z",
+				"lastModified": "2017-10-06T18:03:16Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "https://api.github.com/licenses/mit",
+					"name": "MIT License"
+				}]
+			},
+			"languages": "Ruby",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "identity-provider",
+			"description": null,
+			"repositoryURL": "https://github.com/ca-cwds/identity-provider",
+			"homepageURL": "https://github.com/ca-cwds/identity-provider",
+			"date": {
+				"created": "2017-08-07T21:26:29Z",
+				"lastModified": "2018-11-15T23:24:12Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "Other"
+				}]
+			},
+			"languages": "HTML",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "Information-Security",
+			"description": "CWDS Information Security Program public documents and Wiki.",
+			"repositoryURL": "https://github.com/ca-cwds/Information-Security",
+			"homepageURL": "https://github.com/ca-cwds/Information-Security",
+			"date": {
+				"created": "2016-10-11T17:24:48Z",
+				"lastModified": "2018-10-11T02:18:30Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "https://api.github.com/licenses/gpl-3.0",
+					"name": "GNU General Public License v3.0"
+				}]
+			},
+			"languages": null,
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "intake",
+			"description": "CWDS Intake Digital Service",
+			"repositoryURL": "https://github.com/ca-cwds/intake",
+			"homepageURL": "https://github.com/ca-cwds/intake",
+			"date": {
+				"created": "2016-09-29T15:42:09Z",
+				"lastModified": "2019-01-08T11:12:55Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "https://api.github.com/licenses/agpl-3.0",
+					"name": "GNU Affero General Public License v3.0"
+				}]
+			},
+			"languages": "JavaScript",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "intake-ansible-playbooks",
+			"description": "Ansible playbooks for accelerator project",
+			"repositoryURL": "https://github.com/ca-cwds/intake-ansible-playbooks",
+			"homepageURL": "https://github.com/ca-cwds/intake-ansible-playbooks",
+			"date": {
+				"created": "2016-09-30T19:15:42Z",
+				"lastModified": "2017-01-04T16:27:18Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": "Groovy",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "intake-api-smoketest",
+			"description": "Smoke Test for API",
+			"repositoryURL": "https://github.com/ca-cwds/intake-api-smoketest",
+			"homepageURL": "https://github.com/ca-cwds/intake-api-smoketest",
+			"date": {
+				"created": "2017-10-27T18:38:52Z",
+				"lastModified": "2017-10-27T18:38:52Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": null,
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "intake-docker-base-images",
+			"description": null,
+			"repositoryURL": "https://github.com/ca-cwds/intake-docker-base-images",
+			"homepageURL": "https://github.com/ca-cwds/intake-docker-base-images",
+			"date": {
+				"created": "2018-04-10T22:15:47Z",
+				"lastModified": "2018-04-10T22:15:49Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": null,
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "intake-pm-mocks",
+			"description": "High-fidelity prototypes for Intake",
+			"repositoryURL": "https://github.com/ca-cwds/intake-pm-mocks",
+			"homepageURL": "https://github.com/ca-cwds/intake-pm-mocks",
+			"date": {
+				"created": "2016-11-07T17:33:56Z",
+				"lastModified": "2018-01-11T15:18:36Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "https://api.github.com/licenses/agpl-3.0",
+					"name": "GNU Affero General Public License v3.0"
+				}]
+			},
+			"languages": "HTML",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "intake-ux",
+			"description": "UX projects + wiki",
+			"repositoryURL": "https://github.com/ca-cwds/intake-ux",
+			"homepageURL": "https://github.com/ca-cwds/intake-ux",
+			"date": {
+				"created": "2016-12-22T23:30:40Z",
+				"lastModified": "2016-12-22T23:30:40Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": null,
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "intake_api",
+			"description": "Intake API  ",
+			"repositoryURL": "https://github.com/ca-cwds/intake_api",
+			"homepageURL": "https://github.com/ca-cwds/intake_api",
+			"date": {
+				"created": "2016-10-06T23:58:07Z",
+				"lastModified": "2018-10-04T19:36:04Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": "Ruby",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "interfaces.github.io",
+			"description": null,
+			"repositoryURL": "https://github.com/ca-cwds/interfaces.github.io",
+			"homepageURL": "https://github.com/ca-cwds/interfaces.github.io",
+			"date": {
+				"created": "2016-03-13T23:45:36Z",
+				"lastModified": "2018-12-26T23:05:08Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": "HTML",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "jenkins-acceptance-test-builds",
+			"description": "Jenkins acceptance tests repo",
+			"repositoryURL": "https://github.com/ca-cwds/jenkins-acceptance-test-builds",
+			"homepageURL": "https://github.com/ca-cwds/jenkins-acceptance-test-builds",
+			"date": {
+				"created": "2017-07-28T20:47:20Z",
+				"lastModified": "2018-07-25T18:39:33Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": null,
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "jenkins-performance-test-build",
+			"description": "Performance test build",
+			"repositoryURL": "https://github.com/ca-cwds/jenkins-performance-test-build",
+			"homepageURL": "https://github.com/ca-cwds/jenkins-performance-test-build",
+			"date": {
+				"created": "2018-01-18T00:09:47Z",
+				"lastModified": "2018-03-29T20:01:02Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": null,
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "jenkins-pipeline-utils",
+			"description": "Contains Jenkins Shared Library files",
+			"repositoryURL": "https://github.com/ca-cwds/jenkins-pipeline-utils",
+			"homepageURL": "https://github.com/ca-cwds/jenkins-pipeline-utils",
+			"date": {
+				"created": "2018-10-18T22:11:23Z",
+				"lastModified": "2019-01-08T16:29:03Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": "Groovy",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "jobs",
+			"description": "Neutron, CWDS Elasticsearch batch jobs",
+			"repositoryURL": "https://github.com/ca-cwds/jobs",
+			"homepageURL": "https://github.com/ca-cwds/jobs",
+			"date": {
+				"created": "2016-11-22T21:52:49Z",
+				"lastModified": "2019-01-09T20:06:13Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": "Java",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "methods",
+			"description": "The design methods practiced at CWDS. This repository includes general descriptions of our methods, how-tos, as well as information for applying these methods. NOTE: This was forked from 18F/methods.",
+			"repositoryURL": "https://github.com/ca-cwds/methods",
+			"homepageURL": "https://github.com/ca-cwds/methods",
+			"date": {
+				"created": "2017-10-24T16:54:18Z",
+				"lastModified": "2017-10-25T21:06:21Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "Other"
+				}]
+			},
+			"languages": "CSS",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "Microservices",
+			"description": null,
+			"repositoryURL": "https://github.com/ca-cwds/Microservices",
+			"homepageURL": "https://github.com/ca-cwds/Microservices",
+			"date": {
+				"created": "2018-01-24T22:20:07Z",
+				"lastModified": "2018-03-29T19:56:43Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": null,
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "perry",
+			"description": "Authentication and Authorization API",
+			"repositoryURL": "https://github.com/ca-cwds/perry",
+			"homepageURL": "https://github.com/ca-cwds/perry",
+			"date": {
+				"created": "2016-12-21T15:59:40Z",
+				"lastModified": "2019-01-13T02:35:46Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "Other"
+				}]
+			},
+			"languages": "Java",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "phineas-suite",
+			"description": "The Phineas Suite project provides Docker configuration to build and deploy the CWDS Intake application **for use in a development environment**.",
+			"repositoryURL": "https://github.com/ca-cwds/phineas-suite",
+			"homepageURL": "https://github.com/ca-cwds/phineas-suite",
+			"date": {
+				"created": "2017-03-23T18:36:31Z",
+				"lastModified": "2017-03-23T18:42:18Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": "Shell",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "playbook",
+			"description": "The U.S. Digital Services Playbook",
+			"repositoryURL": "https://github.com/ca-cwds/playbook",
+			"homepageURL": "https://github.com/ca-cwds/playbook",
+			"date": {
+				"created": "2016-02-27T00:33:24Z",
+				"lastModified": "2016-02-27T00:33:25Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": "CSS",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "PMO",
+			"description": "This is the repository for all things Agile PMO",
+			"repositoryURL": "https://github.com/ca-cwds/PMO",
+			"homepageURL": "https://github.com/ca-cwds/PMO",
+			"date": {
+				"created": "2016-04-08T22:38:28Z",
+				"lastModified": "2016-08-02T17:52:58Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": null,
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "Preview",
+			"description": "This repository is used to publish Release Notes and capture issues identified on the Preview site:",
+			"repositoryURL": "https://github.com/ca-cwds/Preview",
+			"homepageURL": "https://github.com/ca-cwds/Preview",
+			"date": {
+				"created": "2017-10-09T14:43:48Z",
+				"lastModified": "2017-10-09T14:46:46Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": null,
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "Production",
+			"description": "This repository is used to publish CWS-CARES Production Release Notes and track issues discovered on the Production web site.",
+			"repositoryURL": "https://github.com/ca-cwds/Production",
+			"homepageURL": "https://github.com/ca-cwds/Production",
+			"date": {
+				"created": "2017-05-03T18:31:10Z",
+				"lastModified": "2018-09-06T02:28:35Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": null,
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "react-autosuggest",
+			"description": "WAI-ARIA compliant React autosuggest component",
+			"repositoryURL": "https://github.com/ca-cwds/react-autosuggest",
+			"homepageURL": "https://github.com/ca-cwds/react-autosuggest",
+			"date": {
+				"created": "2018-01-07T23:11:31Z",
+				"lastModified": "2018-01-07T23:11:33Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "https://api.github.com/licenses/mit",
+					"name": "MIT License"
+				}]
+			},
+			"languages": "JavaScript",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "react-clipboard",
+			"description": "Component to allow user to easily copy text to clipboard",
+			"repositoryURL": "https://github.com/ca-cwds/react-clipboard",
+			"homepageURL": "https://github.com/ca-cwds/react-clipboard",
+			"date": {
+				"created": "2017-06-20T20:29:08Z",
+				"lastModified": "2017-06-20T20:29:09Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "https://api.github.com/licenses/mit",
+					"name": "MIT License"
+				}]
+			},
+			"languages": "JavaScript",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "react-widgets",
+			"description": "An à la carte set of polished, extensible, and accessible inputs built for React",
+			"repositoryURL": "https://github.com/ca-cwds/react-widgets",
+			"homepageURL": "https://github.com/ca-cwds/react-widgets",
+			"date": {
+				"created": "2017-06-07T22:41:21Z",
+				"lastModified": "2017-06-07T22:41:23Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "https://api.github.com/licenses/mit",
+					"name": "MIT License"
+				}]
+			},
+			"languages": "JavaScript",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "react-wood-duck",
+			"description": null,
+			"repositoryURL": "https://github.com/ca-cwds/react-wood-duck",
+			"homepageURL": "https://github.com/ca-cwds/react-wood-duck",
+			"date": {
+				"created": "2017-07-31T17:39:17Z",
+				"lastModified": "2018-10-15T13:31:18Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "https://api.github.com/licenses/agpl-3.0",
+					"name": "GNU Affero General Public License v3.0"
+				}]
+			},
+			"languages": "JavaScript",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "research-design",
+			"description": "CWDS Research Design Playbook and repo for pattern library",
+			"repositoryURL": "https://github.com/ca-cwds/research-design",
+			"homepageURL": "https://github.com/ca-cwds/research-design",
+			"date": {
+				"created": "2017-01-24T23:09:02Z",
+				"lastModified": "2018-10-31T18:37:56Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": "CSS",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "rubyonrails",
+			"description": null,
+			"repositoryURL": "https://github.com/ca-cwds/rubyonrails",
+			"homepageURL": "https://github.com/ca-cwds/rubyonrails",
+			"date": {
+				"created": "2018-09-07T20:35:54Z",
+				"lastModified": "2018-11-16T22:37:14Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": "Groovy",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "Sandbox",
+			"description": "This repository is used to publish Release Notes and capture issues identified on the Sandbox site:",
+			"repositoryURL": "https://github.com/ca-cwds/Sandbox",
+			"homepageURL": "https://github.com/ca-cwds/Sandbox",
+			"date": {
+				"created": "2017-04-18T16:12:37Z",
+				"lastModified": "2017-09-11T17:06:52Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": null,
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "service-manual-publisher",
+			"description": "Create and manage content for the service manual",
+			"repositoryURL": "https://github.com/ca-cwds/service-manual-publisher",
+			"homepageURL": "https://github.com/ca-cwds/service-manual-publisher",
+			"date": {
+				"created": "2016-03-10T18:52:22Z",
+				"lastModified": "2016-03-10T18:52:23Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "https://api.github.com/licenses/mit",
+					"name": "MIT License"
+				}]
+			},
+			"languages": "Ruby",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "swagger_specification",
+			"description": "Repository will contain swagger specification and db schema based on prototype api which will be used to request for API ",
+			"repositoryURL": "https://github.com/ca-cwds/swagger_specification",
+			"homepageURL": "https://github.com/ca-cwds/swagger_specification",
+			"date": {
+				"created": "2017-01-04T21:46:25Z",
+				"lastModified": "2017-01-04T21:46:25Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": null,
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "system_information",
+			"description": null,
+			"repositoryURL": "https://github.com/ca-cwds/system_information",
+			"homepageURL": "https://github.com/ca-cwds/system_information",
+			"date": {
+				"created": "2018-10-31T17:10:40Z",
+				"lastModified": "2018-11-14T00:16:49Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "https://api.github.com/licenses/agpl-3.0",
+					"name": "GNU Affero General Public License v3.0"
+				}]
+			},
+			"languages": "Ruby",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "tag-prototype",
+			"description": "Prototyping version tagging automation for ca-cwds repos. Delete this repo by the end of August 2018.",
+			"repositoryURL": "https://github.com/ca-cwds/tag-prototype",
+			"homepageURL": "https://github.com/ca-cwds/tag-prototype",
+			"date": {
+				"created": "2018-05-10T23:39:33Z",
+				"lastModified": "2018-06-05T21:15:40Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": null,
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "twixter",
+			"description": "Proof-of-concept legacy database conversion engine",
+			"repositoryURL": "https://github.com/ca-cwds/twixter",
+			"homepageURL": "https://github.com/ca-cwds/twixter",
+			"date": {
+				"created": "2017-05-11T15:41:35Z",
+				"lastModified": "2017-05-16T20:39:36Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": "Ruby",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "web-design-standards",
+			"description": "Open source UI components and visual style guide for U.S. government websites",
+			"repositoryURL": "https://github.com/ca-cwds/web-design-standards",
+			"homepageURL": "https://github.com/ca-cwds/web-design-standards",
+			"date": {
+				"created": "2016-05-06T16:28:32Z",
+				"lastModified": "2016-12-08T20:41:35Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "Other"
+				}]
+			},
+			"languages": "JavaScript",
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "webdocs",
+			"description": null,
+			"repositoryURL": "https://github.com/ca-cwds/webdocs",
+			"homepageURL": "https://github.com/ca-cwds/webdocs",
+			"date": {
+				"created": "2016-09-16T21:50:17Z",
+				"lastModified": "2017-04-24T21:44:20Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "none",
+					"name": "none"
+				}]
+			},
+			"languages": null,
+			"vcs": "git",
+			"tags": null
+		},
+		{
+			"organization": "CWDS",
+			"name": "woodduck-rails",
+			"description": null,
+			"repositoryURL": "https://github.com/ca-cwds/woodduck-rails",
+			"homepageURL": "https://github.com/ca-cwds/woodduck-rails",
+			"date": {
+				"created": "2017-06-20T19:33:26Z",
+				"lastModified": "2017-06-21T17:01:06Z",
+				"metadataLastUpdated": "2019-01-14"
+			},
+			"permissions": {
+				"licenses": [{
+					"URL": "https://api.github.com/licenses/mit",
+					"name": "MIT License"
+				}]
+			},
+			"languages": "Ruby",
+			"vcs": "git",
+			"tags": null
+		}
+	]
 }
