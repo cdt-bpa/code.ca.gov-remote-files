@@ -52,8 +52,8 @@
         "name": "General Services Administration",
         "acronym": "GSA",
         "website": "https://18f.gsa.gov/",
-        "codeUrl": "https://raw.githubusercontent.com/ODI-BPA/code.ca.gov/master/18F.json",
-        "fallback_file": "18F.json",
+        "codeUrl": "https://raw.githubusercontent.com/ODI-BPA/code.ca.gov/master/GSA.json",
+        "fallback_file": "GSA.json",
         "requirements": {
           "agencyWidePolicy": 0.75,
           "openSourceRequirement": 0,
