@@ -30,5 +30,21 @@
           "overallCompliance": 0
         },
         "complianceDashboard": true
+    },
+    {
+        "id": 3,
+        "name": "California Health and Human Services",
+        "acronym": "CHHS",
+        "website": "https://cwds.ca.gov/",
+        "codeUrl": "https://raw.githubusercontent.com/ODI-BPA/code.ca.gov/master/CHHS.json",
+        "fallback_file": "CHHS.json",
+        "requirements": {
+          "agencyWidePolicy": 0.75,
+          "openSourceRequirement": 0,
+          "inventoryRequirement": 0,
+          "schemaFormat": 0.5,
+          "overallCompliance": 0
+        },
+        "complianceDashboard": true
     }
 ]
