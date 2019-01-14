@@ -11,40 +11,60 @@
 			"repositoryURL": "https://github.com/ca-cwds/acceptance_testing",
 			"homepageURL": "https://github.com/ca-cwds/acceptance_testing",
 			"date": {
-				"created": "2017-02-01T19:03:14Z",
-				"lastModified": "2019-01-11T21:51:04Z",
+				"created": "2017-02-01",
+				"lastModified": "2019-01-11",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "Ruby",
+			"languages": [
+				"Ruby"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
 			"name": "Agile",
-			"description": null,
+			"description": "",
 			"repositoryURL": "https://github.com/ca-cwds/Agile",
 			"homepageURL": "https://github.com/ca-cwds/Agile",
 			"date": {
-				"created": "2016-04-06T22:58:29Z",
-				"lastModified": "2017-03-16T18:41:36Z",
+				"created": "2016-04-06",
+				"lastModified": "2017-03-16",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": null,
+			"languages": [
+				""
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -53,19 +73,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/API",
 			"homepageURL": "https://github.com/ca-cwds/API",
 			"date": {
-				"created": "2015-12-13T07:04:26Z",
-				"lastModified": "2019-01-07T23:49:16Z",
+				"created": "2015-12-12",
+				"lastModified": "2019-01-07",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "Java",
+			"languages": [
+				"Java"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -74,40 +104,60 @@
 			"repositoryURL": "https://github.com/ca-cwds/api-core",
 			"homepageURL": "https://github.com/ca-cwds/api-core",
 			"date": {
-				"created": "2016-12-31T03:46:08Z",
-				"lastModified": "2018-12-31T18:05:29Z",
+				"created": "2016-12-30",
+				"lastModified": "2018-12-31",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "Java",
+			"languages": [
+				"Java"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
 			"name": "app-database",
-			"description": null,
+			"description": "",
 			"repositoryURL": "https://github.com/ca-cwds/app-database",
 			"homepageURL": "https://github.com/ca-cwds/app-database",
 			"date": {
-				"created": "2018-11-14T22:40:50Z",
-				"lastModified": "2019-01-03T22:04:33Z",
+				"created": "2018-11-14",
+				"lastModified": "2019-01-03",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "https://api.github.com/licenses/gpl-3.0",
 					"name": "GNU General Public License v3.0"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "Shell",
+			"languages": [
+				"Shell"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -116,19 +166,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/BiddersLibrary",
 			"homepageURL": "https://github.com/ca-cwds/BiddersLibrary",
 			"date": {
-				"created": "2016-11-21T23:37:59Z",
-				"lastModified": "2016-11-30T18:38:09Z",
+				"created": "2016-11-21",
+				"lastModified": "2016-11-30",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "ASP",
+			"languages": [
+				"ASP"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -137,19 +197,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/buzz",
 			"homepageURL": "https://github.com/ca-cwds/buzz",
 			"date": {
-				"created": "2017-04-04T17:13:31Z",
-				"lastModified": "2017-04-06T04:43:33Z",
+				"created": "2017-04-04",
+				"lastModified": "2017-04-05",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "Groovy",
+			"languages": [
+				"Groovy"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -158,19 +228,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/CA-ADPQ",
 			"homepageURL": "https://github.com/ca-cwds/CA-ADPQ",
 			"date": {
-				"created": "2016-07-28T15:52:00Z",
-				"lastModified": "2017-01-13T02:34:14Z",
+				"created": "2016-07-28",
+				"lastModified": "2017-01-12",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "PHP",
+			"languages": [
+				"PHP"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -179,40 +259,60 @@
 			"repositoryURL": "https://github.com/ca-cwds/CALS",
 			"homepageURL": "https://github.com/ca-cwds/CALS",
 			"date": {
-				"created": "2017-03-16T20:43:57Z",
-				"lastModified": "2019-01-11T07:19:47Z",
+				"created": "2017-03-16",
+				"lastModified": "2019-01-10",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "https://api.github.com/licenses/agpl-3.0",
 					"name": "GNU Affero General Public License v3.0"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "JavaScript",
+			"languages": [
+				"JavaScript"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
 			"name": "cals-acceptance-testing",
-			"description": null,
+			"description": "",
 			"repositoryURL": "https://github.com/ca-cwds/cals-acceptance-testing",
 			"homepageURL": "https://github.com/ca-cwds/cals-acceptance-testing",
 			"date": {
-				"created": "2017-09-26T23:03:20Z",
-				"lastModified": "2017-10-03T22:03:24Z",
+				"created": "2017-09-26",
+				"lastModified": "2017-10-03",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "Ruby",
+			"languages": [
+				"Ruby"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -221,19 +321,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/cals-api",
 			"homepageURL": "https://github.com/ca-cwds/cals-api",
 			"date": {
-				"created": "2017-04-20T23:52:23Z",
-				"lastModified": "2019-01-07T19:57:40Z",
+				"created": "2017-04-20",
+				"lastModified": "2019-01-07",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "Other"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "Java",
+			"languages": [
+				"Java"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -242,61 +352,91 @@
 			"repositoryURL": "https://github.com/ca-cwds/cals-api-client",
 			"homepageURL": "https://github.com/ca-cwds/cals-api-client",
 			"date": {
-				"created": "2018-02-14T22:12:10Z",
-				"lastModified": "2018-02-14T22:15:36Z",
+				"created": "2018-02-14",
+				"lastModified": "2018-02-14",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "TypeScript",
+			"languages": [
+				"TypeScript"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
 			"name": "CALS-DEPRECATED",
-			"description": null,
+			"description": "",
 			"repositoryURL": "https://github.com/ca-cwds/CALS-DEPRECATED",
 			"homepageURL": "https://github.com/ca-cwds/CALS-DEPRECATED",
 			"date": {
-				"created": "2017-02-09T20:33:37Z",
-				"lastModified": "2019-01-04T23:52:13Z",
+				"created": "2017-02-09",
+				"lastModified": "2019-01-04",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "Ruby",
+			"languages": [
+				"Ruby"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
 			"name": "CALS-design",
-			"description": null,
+			"description": "",
 			"repositoryURL": "https://github.com/ca-cwds/CALS-design",
 			"homepageURL": "https://github.com/ca-cwds/CALS-design",
 			"date": {
-				"created": "2017-05-31T04:17:33Z",
-				"lastModified": "2017-05-31T04:17:33Z",
+				"created": "2017-05-30",
+				"lastModified": "2017-05-30",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": null,
+			"languages": [
+				""
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -305,19 +445,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/cals-mock-api",
 			"homepageURL": "https://github.com/ca-cwds/cals-mock-api",
 			"date": {
-				"created": "2017-02-16T20:33:11Z",
-				"lastModified": "2018-04-17T18:21:27Z",
+				"created": "2017-02-16",
+				"lastModified": "2018-04-17",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "Ruby",
+			"languages": [
+				"Ruby"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -326,19 +476,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/cans",
 			"homepageURL": "https://github.com/ca-cwds/cans",
 			"date": {
-				"created": "2018-05-03T18:11:52Z",
-				"lastModified": "2019-01-11T20:10:49Z",
+				"created": "2018-05-03",
+				"lastModified": "2019-01-11",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "https://api.github.com/licenses/agpl-3.0",
 					"name": "GNU Affero General Public License v3.0"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "JavaScript",
+			"languages": [
+				"JavaScript"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -347,19 +507,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/cans-api",
 			"homepageURL": "https://github.com/ca-cwds/cans-api",
 			"date": {
-				"created": "2018-05-03T18:14:16Z",
-				"lastModified": "2019-01-11T22:12:19Z",
+				"created": "2018-05-03",
+				"lastModified": "2019-01-11",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "Other"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "Java",
+			"languages": [
+				"Java"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -368,124 +538,184 @@
 			"repositoryURL": "https://github.com/ca-cwds/capybara-accessible",
 			"homepageURL": "https://github.com/ca-cwds/capybara-accessible",
 			"date": {
-				"created": "2018-06-25T18:10:23Z",
-				"lastModified": "2018-08-23T16:00:53Z",
+				"created": "2018-06-25",
+				"lastModified": "2018-08-23",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "https://api.github.com/licenses/mit",
 					"name": "MIT License"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "Ruby",
+			"languages": [
+				"Ruby"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
 			"name": "case-management",
-			"description": null,
+			"description": "",
 			"repositoryURL": "https://github.com/ca-cwds/case-management",
 			"homepageURL": "https://github.com/ca-cwds/case-management",
 			"date": {
-				"created": "2017-07-26T21:14:03Z",
-				"lastModified": "2018-10-03T15:24:03Z",
+				"created": "2017-07-26",
+				"lastModified": "2018-10-03",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "https://api.github.com/licenses/agpl-3.0",
 					"name": "GNU Affero General Public License v3.0"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "JavaScript",
+			"languages": [
+				"JavaScript"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
 			"name": "case-management-api",
-			"description": null,
+			"description": "",
 			"repositoryURL": "https://github.com/ca-cwds/case-management-api",
 			"homepageURL": "https://github.com/ca-cwds/case-management-api",
 			"date": {
-				"created": "2017-10-27T18:19:50Z",
-				"lastModified": "2018-12-19T01:01:25Z",
+				"created": "2017-10-27",
+				"lastModified": "2018-12-18",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "Other"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "Java",
+			"languages": [
+				"Java"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
 			"name": "cognito",
-			"description": null,
+			"description": "",
 			"repositoryURL": "https://github.com/ca-cwds/cognito",
 			"homepageURL": "https://github.com/ca-cwds/cognito",
 			"date": {
-				"created": "2018-05-29T19:29:41Z",
-				"lastModified": "2018-10-19T17:46:08Z",
+				"created": "2018-05-29",
+				"lastModified": "2018-10-19",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "JavaScript",
+			"languages": [
+				"JavaScript"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
 			"name": "cognito-custom-login",
-			"description": null,
+			"description": "",
 			"repositoryURL": "https://github.com/ca-cwds/cognito-custom-login",
 			"homepageURL": "https://github.com/ca-cwds/cognito-custom-login",
 			"date": {
-				"created": "2018-07-13T18:01:50Z",
-				"lastModified": "2019-01-11T23:31:40Z",
+				"created": "2018-07-13",
+				"lastModified": "2019-01-11",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "https://api.github.com/licenses/agpl-3.0",
 					"name": "GNU Affero General Public License v3.0"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "JavaScript",
+			"languages": [
+				"JavaScript"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
 			"name": "Communications",
-			"description": null,
+			"description": "",
 			"repositoryURL": "https://github.com/ca-cwds/Communications",
 			"homepageURL": "https://github.com/ca-cwds/Communications",
 			"date": {
-				"created": "2016-03-09T17:45:41Z",
-				"lastModified": "2016-08-02T17:53:10Z",
+				"created": "2016-03-09",
+				"lastModified": "2016-08-02",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": null,
+			"languages": [
+				""
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -494,19 +724,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/county-admin",
 			"homepageURL": "https://github.com/ca-cwds/county-admin",
 			"date": {
-				"created": "2018-04-26T20:03:31Z",
-				"lastModified": "2019-01-09T23:27:33Z",
+				"created": "2018-04-26",
+				"lastModified": "2019-01-09",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "https://api.github.com/licenses/agpl-3.0",
 					"name": "GNU Affero General Public License v3.0"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "JavaScript",
+			"languages": [
+				"JavaScript"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -515,19 +755,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/cwds-authentication",
 			"homepageURL": "https://github.com/ca-cwds/cwds-authentication",
 			"date": {
-				"created": "2017-05-02T06:12:36Z",
-				"lastModified": "2019-01-03T18:31:13Z",
+				"created": "2017-05-01",
+				"lastModified": "2019-01-03",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "https://api.github.com/licenses/agpl-3.0",
 					"name": "GNU Affero General Public License v3.0"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "Ruby",
+			"languages": [
+				"Ruby"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -536,40 +786,60 @@
 			"repositoryURL": "https://github.com/ca-cwds/cwds-jobs",
 			"homepageURL": "https://github.com/ca-cwds/cwds-jobs",
 			"date": {
-				"created": "2018-05-03T17:42:42Z",
-				"lastModified": "2019-01-11T00:50:31Z",
+				"created": "2018-05-03",
+				"lastModified": "2019-01-10",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "HTML",
+			"languages": [
+				"HTML"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
 			"name": "CWDS-Service-Desk",
-			"description": null,
+			"description": "",
 			"repositoryURL": "https://github.com/ca-cwds/CWDS-Service-Desk",
 			"homepageURL": "https://github.com/ca-cwds/CWDS-Service-Desk",
 			"date": {
-				"created": "2018-01-22T19:32:11Z",
-				"lastModified": "2018-12-21T22:04:25Z",
+				"created": "2018-01-22",
+				"lastModified": "2018-12-21",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": null,
+			"languages": [
+				""
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -578,40 +848,60 @@
 			"repositoryURL": "https://github.com/ca-cwds/cwds-staging",
 			"homepageURL": "https://github.com/ca-cwds/cwds-staging",
 			"date": {
-				"created": "2016-05-10T15:12:43Z",
-				"lastModified": "2018-12-12T22:07:43Z",
+				"created": "2016-05-10",
+				"lastModified": "2018-12-12",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": null,
+			"languages": [
+				""
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
 			"name": "cwds_store",
-			"description": null,
+			"description": "",
 			"repositoryURL": "https://github.com/ca-cwds/cwds_store",
 			"homepageURL": "https://github.com/ca-cwds/cwds_store",
 			"date": {
-				"created": "2018-11-29T23:21:05Z",
-				"lastModified": "2019-01-08T19:17:19Z",
+				"created": "2018-11-29",
+				"lastModified": "2019-01-08",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "https://api.github.com/licenses/agpl-3.0",
 					"name": "GNU Affero General Public License v3.0"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "Ruby",
+			"languages": [
+				"Ruby"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -620,19 +910,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/cws-cms-migrations",
 			"homepageURL": "https://github.com/ca-cwds/cws-cms-migrations",
 			"date": {
-				"created": "2018-06-01T22:07:38Z",
-				"lastModified": "2018-08-03T20:26:58Z",
+				"created": "2018-06-01",
+				"lastModified": "2018-08-03",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "SQLPL",
+			"languages": [
+				"SQLPL"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -641,40 +941,60 @@
 			"repositoryURL": "https://github.com/ca-cwds/dashboard",
 			"homepageURL": "https://github.com/ca-cwds/dashboard",
 			"date": {
-				"created": "2017-04-24T20:27:57Z",
-				"lastModified": "2019-01-09T00:54:18Z",
+				"created": "2017-04-24",
+				"lastModified": "2019-01-08",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "https://api.github.com/licenses/agpl-3.0",
 					"name": "GNU Affero General Public License v3.0"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "Ruby",
+			"languages": [
+				"Ruby"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
 			"name": "datamgmt",
-			"description": null,
+			"description": "",
 			"repositoryURL": "https://github.com/ca-cwds/datamgmt",
 			"homepageURL": "https://github.com/ca-cwds/datamgmt",
 			"date": {
-				"created": "2018-06-01T16:33:28Z",
-				"lastModified": "2018-06-01T16:33:31Z",
+				"created": "2018-06-01",
+				"lastModified": "2018-06-01",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": null,
+			"languages": [
+				""
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -683,19 +1003,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/datamonger",
 			"homepageURL": "https://github.com/ca-cwds/datamonger",
 			"date": {
-				"created": "2017-03-29T18:24:32Z",
-				"lastModified": "2017-03-29T18:24:46Z",
+				"created": "2017-03-29",
+				"lastModified": "2017-03-29",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "https://api.github.com/licenses/mit",
 					"name": "MIT License"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "Ruby",
+			"languages": [
+				"Ruby"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -704,19 +1034,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/design-system",
 			"homepageURL": "https://github.com/ca-cwds/design-system",
 			"date": {
-				"created": "2018-08-17T21:55:11Z",
-				"lastModified": "2019-01-10T20:00:53Z",
+				"created": "2018-08-17",
+				"lastModified": "2019-01-10",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "https://api.github.com/licenses/agpl-3.0",
 					"name": "GNU Affero General Public License v3.0"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "JavaScript",
+			"languages": [
+				"JavaScript"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -725,19 +1065,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/development-practices",
 			"homepageURL": "https://github.com/ca-cwds/development-practices",
 			"date": {
-				"created": "2017-11-13T04:04:07Z",
-				"lastModified": "2019-01-10T18:21:58Z",
+				"created": "2017-11-12",
+				"lastModified": "2019-01-10",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "https://api.github.com/licenses/agpl-3.0",
 					"name": "GNU Affero General Public License v3.0"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": null,
+			"languages": [
+				""
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -746,40 +1096,60 @@
 			"repositoryURL": "https://github.com/ca-cwds/devops",
 			"homepageURL": "https://github.com/ca-cwds/devops",
 			"date": {
-				"created": "2016-10-04T18:38:06Z",
-				"lastModified": "2018-12-18T23:30:00Z",
+				"created": "2016-10-04",
+				"lastModified": "2018-12-18",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "https://api.github.com/licenses/gpl-3.0",
 					"name": "GNU General Public License v3.0"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "Groovy",
+			"languages": [
+				"Groovy"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
 			"name": "devops-ci-test",
-			"description": null,
+			"description": "",
 			"repositoryURL": "https://github.com/ca-cwds/devops-ci-test",
 			"homepageURL": "https://github.com/ca-cwds/devops-ci-test",
 			"date": {
-				"created": "2018-06-05T20:40:01Z",
-				"lastModified": "2018-06-07T23:09:07Z",
+				"created": "2018-06-05",
+				"lastModified": "2018-06-07",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "Java",
+			"languages": [
+				"Java"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -788,19 +1158,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/dms-api",
 			"homepageURL": "https://github.com/ca-cwds/dms-api",
 			"date": {
-				"created": "2017-08-07T20:36:53Z",
-				"lastModified": "2018-11-28T18:19:37Z",
+				"created": "2017-08-07",
+				"lastModified": "2018-11-28",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "Other"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "HTML",
+			"languages": [
+				"HTML"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -809,61 +1189,91 @@
 			"repositoryURL": "https://github.com/ca-cwds/dora",
 			"homepageURL": "https://github.com/ca-cwds/dora",
 			"date": {
-				"created": "2017-05-05T00:46:20Z",
-				"lastModified": "2019-01-08T01:21:37Z",
+				"created": "2017-05-04",
+				"lastModified": "2019-01-07",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "HTML",
+			"languages": [
+				"HTML"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
 			"name": "dora_api",
-			"description": null,
+			"description": "",
 			"repositoryURL": "https://github.com/ca-cwds/dora_api",
 			"homepageURL": "https://github.com/ca-cwds/dora_api",
 			"date": {
-				"created": "2018-10-23T19:40:23Z",
-				"lastModified": "2019-01-11T21:52:57Z",
+				"created": "2018-10-23",
+				"lastModified": "2019-01-11",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "https://api.github.com/licenses/agpl-3.0",
 					"name": "GNU Affero General Public License v3.0"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "Ruby",
+			"languages": [
+				"Ruby"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
 			"name": "formation-app",
-			"description": null,
+			"description": "",
 			"repositoryURL": "https://github.com/ca-cwds/formation-app",
 			"homepageURL": "https://github.com/ca-cwds/formation-app",
 			"date": {
-				"created": "2018-02-15T22:34:16Z",
-				"lastModified": "2018-02-15T22:41:48Z",
+				"created": "2018-02-15",
+				"lastModified": "2018-02-15",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "JavaScript",
+			"languages": [
+				"JavaScript"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -872,19 +1282,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/forms-api",
 			"homepageURL": "https://github.com/ca-cwds/forms-api",
 			"date": {
-				"created": "2017-09-28T20:39:06Z",
-				"lastModified": "2018-11-28T18:17:37Z",
+				"created": "2017-09-28",
+				"lastModified": "2018-11-28",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "Other"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "HTML",
+			"languages": [
+				"HTML"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -893,19 +1313,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/forms-api-client",
 			"homepageURL": "https://github.com/ca-cwds/forms-api-client",
 			"date": {
-				"created": "2018-02-13T18:11:04Z",
-				"lastModified": "2018-02-13T22:13:19Z",
+				"created": "2018-02-13",
+				"lastModified": "2018-02-13",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "TypeScript",
+			"languages": [
+				"TypeScript"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -914,19 +1344,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/geo-services-api",
 			"homepageURL": "https://github.com/ca-cwds/geo-services-api",
 			"date": {
-				"created": "2017-07-07T02:37:54Z",
-				"lastModified": "2018-12-27T03:29:20Z",
+				"created": "2017-07-06",
+				"lastModified": "2018-12-26",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "Other"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "HTML",
+			"languages": [
+				"HTML"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -935,19 +1375,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/government-service-design-manual",
 			"homepageURL": "https://github.com/ca-cwds/government-service-design-manual",
 			"date": {
-				"created": "2016-02-27T01:02:37Z",
-				"lastModified": "2016-02-27T01:02:39Z",
+				"created": "2016-02-26",
+				"lastModified": "2016-02-26",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "Other"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "CSS",
+			"languages": [
+				"CSS"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -956,40 +1406,60 @@
 			"repositoryURL": "https://github.com/ca-cwds/homebrew-cwds",
 			"homepageURL": "https://github.com/ca-cwds/homebrew-cwds",
 			"date": {
-				"created": "2017-10-06T17:44:54Z",
-				"lastModified": "2017-10-06T18:03:16Z",
+				"created": "2017-10-06",
+				"lastModified": "2017-10-06",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "https://api.github.com/licenses/mit",
 					"name": "MIT License"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "Ruby",
+			"languages": [
+				"Ruby"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
 			"name": "identity-provider",
-			"description": null,
+			"description": "",
 			"repositoryURL": "https://github.com/ca-cwds/identity-provider",
 			"homepageURL": "https://github.com/ca-cwds/identity-provider",
 			"date": {
-				"created": "2017-08-07T21:26:29Z",
-				"lastModified": "2018-11-15T23:24:12Z",
+				"created": "2017-08-07",
+				"lastModified": "2018-11-15",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "Other"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "HTML",
+			"languages": [
+				"HTML"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -998,19 +1468,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/Information-Security",
 			"homepageURL": "https://github.com/ca-cwds/Information-Security",
 			"date": {
-				"created": "2016-10-11T17:24:48Z",
-				"lastModified": "2018-10-11T02:18:30Z",
+				"created": "2016-10-11",
+				"lastModified": "2018-10-10",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "https://api.github.com/licenses/gpl-3.0",
 					"name": "GNU General Public License v3.0"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": null,
+			"languages": [
+				""
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -1019,19 +1499,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/intake",
 			"homepageURL": "https://github.com/ca-cwds/intake",
 			"date": {
-				"created": "2016-09-29T15:42:09Z",
-				"lastModified": "2019-01-08T11:12:55Z",
+				"created": "2016-09-29",
+				"lastModified": "2019-01-08",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "https://api.github.com/licenses/agpl-3.0",
 					"name": "GNU Affero General Public License v3.0"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "JavaScript",
+			"languages": [
+				"JavaScript"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -1040,19 +1530,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/intake-ansible-playbooks",
 			"homepageURL": "https://github.com/ca-cwds/intake-ansible-playbooks",
 			"date": {
-				"created": "2016-09-30T19:15:42Z",
-				"lastModified": "2017-01-04T16:27:18Z",
+				"created": "2016-09-30",
+				"lastModified": "2017-01-04",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "Groovy",
+			"languages": [
+				"Groovy"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -1061,40 +1561,60 @@
 			"repositoryURL": "https://github.com/ca-cwds/intake-api-smoketest",
 			"homepageURL": "https://github.com/ca-cwds/intake-api-smoketest",
 			"date": {
-				"created": "2017-10-27T18:38:52Z",
-				"lastModified": "2017-10-27T18:38:52Z",
+				"created": "2017-10-27",
+				"lastModified": "2017-10-27",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": null,
+			"languages": [
+				""
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
 			"name": "intake-docker-base-images",
-			"description": null,
+			"description": "",
 			"repositoryURL": "https://github.com/ca-cwds/intake-docker-base-images",
 			"homepageURL": "https://github.com/ca-cwds/intake-docker-base-images",
 			"date": {
-				"created": "2018-04-10T22:15:47Z",
-				"lastModified": "2018-04-10T22:15:49Z",
+				"created": "2018-04-10",
+				"lastModified": "2018-04-10",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": null,
+			"languages": [
+				""
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -1103,19 +1623,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/intake-pm-mocks",
 			"homepageURL": "https://github.com/ca-cwds/intake-pm-mocks",
 			"date": {
-				"created": "2016-11-07T17:33:56Z",
-				"lastModified": "2018-01-11T15:18:36Z",
+				"created": "2016-11-07",
+				"lastModified": "2018-01-11",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "https://api.github.com/licenses/agpl-3.0",
 					"name": "GNU Affero General Public License v3.0"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "HTML",
+			"languages": [
+				"HTML"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -1124,19 +1654,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/intake-ux",
 			"homepageURL": "https://github.com/ca-cwds/intake-ux",
 			"date": {
-				"created": "2016-12-22T23:30:40Z",
-				"lastModified": "2016-12-22T23:30:40Z",
+				"created": "2016-12-22",
+				"lastModified": "2016-12-22",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": null,
+			"languages": [
+				""
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -1145,40 +1685,60 @@
 			"repositoryURL": "https://github.com/ca-cwds/intake_api",
 			"homepageURL": "https://github.com/ca-cwds/intake_api",
 			"date": {
-				"created": "2016-10-06T23:58:07Z",
-				"lastModified": "2018-10-04T19:36:04Z",
+				"created": "2016-10-06",
+				"lastModified": "2018-10-04",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "Ruby",
+			"languages": [
+				"Ruby"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
 			"name": "interfaces.github.io",
-			"description": null,
+			"description": "",
 			"repositoryURL": "https://github.com/ca-cwds/interfaces.github.io",
 			"homepageURL": "https://github.com/ca-cwds/interfaces.github.io",
 			"date": {
-				"created": "2016-03-13T23:45:36Z",
-				"lastModified": "2018-12-26T23:05:08Z",
+				"created": "2016-03-13",
+				"lastModified": "2018-12-26",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "HTML",
+			"languages": [
+				"HTML"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -1187,19 +1747,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/jenkins-acceptance-test-builds",
 			"homepageURL": "https://github.com/ca-cwds/jenkins-acceptance-test-builds",
 			"date": {
-				"created": "2017-07-28T20:47:20Z",
-				"lastModified": "2018-07-25T18:39:33Z",
+				"created": "2017-07-28",
+				"lastModified": "2018-07-25",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": null,
+			"languages": [
+				""
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -1208,19 +1778,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/jenkins-performance-test-build",
 			"homepageURL": "https://github.com/ca-cwds/jenkins-performance-test-build",
 			"date": {
-				"created": "2018-01-18T00:09:47Z",
-				"lastModified": "2018-03-29T20:01:02Z",
+				"created": "2018-01-17",
+				"lastModified": "2018-03-29",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": null,
+			"languages": [
+				""
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -1229,19 +1809,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/jenkins-pipeline-utils",
 			"homepageURL": "https://github.com/ca-cwds/jenkins-pipeline-utils",
 			"date": {
-				"created": "2018-10-18T22:11:23Z",
-				"lastModified": "2019-01-08T16:29:03Z",
+				"created": "2018-10-18",
+				"lastModified": "2019-01-08",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "Groovy",
+			"languages": [
+				"Groovy"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -1250,19 +1840,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/jobs",
 			"homepageURL": "https://github.com/ca-cwds/jobs",
 			"date": {
-				"created": "2016-11-22T21:52:49Z",
-				"lastModified": "2019-01-09T20:06:13Z",
+				"created": "2016-11-22",
+				"lastModified": "2019-01-09",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "Java",
+			"languages": [
+				"Java"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -1271,40 +1871,60 @@
 			"repositoryURL": "https://github.com/ca-cwds/methods",
 			"homepageURL": "https://github.com/ca-cwds/methods",
 			"date": {
-				"created": "2017-10-24T16:54:18Z",
-				"lastModified": "2017-10-25T21:06:21Z",
+				"created": "2017-10-24",
+				"lastModified": "2017-10-25",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "Other"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "CSS",
+			"languages": [
+				"CSS"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
 			"name": "Microservices",
-			"description": null,
+			"description": "",
 			"repositoryURL": "https://github.com/ca-cwds/Microservices",
 			"homepageURL": "https://github.com/ca-cwds/Microservices",
 			"date": {
-				"created": "2018-01-24T22:20:07Z",
-				"lastModified": "2018-03-29T19:56:43Z",
+				"created": "2018-01-24",
+				"lastModified": "2018-03-29",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": null,
+			"languages": [
+				""
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -1313,19 +1933,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/perry",
 			"homepageURL": "https://github.com/ca-cwds/perry",
 			"date": {
-				"created": "2016-12-21T15:59:40Z",
-				"lastModified": "2019-01-13T02:35:46Z",
+				"created": "2016-12-21",
+				"lastModified": "2019-01-12",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "Other"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "Java",
+			"languages": [
+				"Java"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -1334,19 +1964,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/phineas-suite",
 			"homepageURL": "https://github.com/ca-cwds/phineas-suite",
 			"date": {
-				"created": "2017-03-23T18:36:31Z",
-				"lastModified": "2017-03-23T18:42:18Z",
+				"created": "2017-03-23",
+				"lastModified": "2017-03-23",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "Shell",
+			"languages": [
+				"Shell"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -1355,19 +1995,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/playbook",
 			"homepageURL": "https://github.com/ca-cwds/playbook",
 			"date": {
-				"created": "2016-02-27T00:33:24Z",
-				"lastModified": "2016-02-27T00:33:25Z",
+				"created": "2016-02-26",
+				"lastModified": "2016-02-26",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "CSS",
+			"languages": [
+				"CSS"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -1376,19 +2026,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/PMO",
 			"homepageURL": "https://github.com/ca-cwds/PMO",
 			"date": {
-				"created": "2016-04-08T22:38:28Z",
-				"lastModified": "2016-08-02T17:52:58Z",
+				"created": "2016-04-08",
+				"lastModified": "2016-08-02",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": null,
+			"languages": [
+				""
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -1397,19 +2057,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/Preview",
 			"homepageURL": "https://github.com/ca-cwds/Preview",
 			"date": {
-				"created": "2017-10-09T14:43:48Z",
-				"lastModified": "2017-10-09T14:46:46Z",
+				"created": "2017-10-09",
+				"lastModified": "2017-10-09",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": null,
+			"languages": [
+				""
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -1418,19 +2088,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/Production",
 			"homepageURL": "https://github.com/ca-cwds/Production",
 			"date": {
-				"created": "2017-05-03T18:31:10Z",
-				"lastModified": "2018-09-06T02:28:35Z",
+				"created": "2017-05-03",
+				"lastModified": "2018-09-05",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": null,
+			"languages": [
+				""
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -1439,19 +2119,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/react-autosuggest",
 			"homepageURL": "https://github.com/ca-cwds/react-autosuggest",
 			"date": {
-				"created": "2018-01-07T23:11:31Z",
-				"lastModified": "2018-01-07T23:11:33Z",
+				"created": "2018-01-07",
+				"lastModified": "2018-01-07",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "https://api.github.com/licenses/mit",
 					"name": "MIT License"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "JavaScript",
+			"languages": [
+				"JavaScript"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -1460,19 +2150,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/react-clipboard",
 			"homepageURL": "https://github.com/ca-cwds/react-clipboard",
 			"date": {
-				"created": "2017-06-20T20:29:08Z",
-				"lastModified": "2017-06-20T20:29:09Z",
+				"created": "2017-06-20",
+				"lastModified": "2017-06-20",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "https://api.github.com/licenses/mit",
 					"name": "MIT License"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "JavaScript",
+			"languages": [
+				"JavaScript"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -1481,40 +2181,60 @@
 			"repositoryURL": "https://github.com/ca-cwds/react-widgets",
 			"homepageURL": "https://github.com/ca-cwds/react-widgets",
 			"date": {
-				"created": "2017-06-07T22:41:21Z",
-				"lastModified": "2017-06-07T22:41:23Z",
+				"created": "2017-06-07",
+				"lastModified": "2017-06-07",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "https://api.github.com/licenses/mit",
 					"name": "MIT License"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "JavaScript",
+			"languages": [
+				"JavaScript"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
 			"name": "react-wood-duck",
-			"description": null,
+			"description": "",
 			"repositoryURL": "https://github.com/ca-cwds/react-wood-duck",
 			"homepageURL": "https://github.com/ca-cwds/react-wood-duck",
 			"date": {
-				"created": "2017-07-31T17:39:17Z",
-				"lastModified": "2018-10-15T13:31:18Z",
+				"created": "2017-07-31",
+				"lastModified": "2018-10-15",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "https://api.github.com/licenses/agpl-3.0",
 					"name": "GNU Affero General Public License v3.0"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "JavaScript",
+			"languages": [
+				"JavaScript"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -1523,40 +2243,60 @@
 			"repositoryURL": "https://github.com/ca-cwds/research-design",
 			"homepageURL": "https://github.com/ca-cwds/research-design",
 			"date": {
-				"created": "2017-01-24T23:09:02Z",
-				"lastModified": "2018-10-31T18:37:56Z",
+				"created": "2017-01-24",
+				"lastModified": "2018-10-31",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "CSS",
+			"languages": [
+				"CSS"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
 			"name": "rubyonrails",
-			"description": null,
+			"description": "",
 			"repositoryURL": "https://github.com/ca-cwds/rubyonrails",
 			"homepageURL": "https://github.com/ca-cwds/rubyonrails",
 			"date": {
-				"created": "2018-09-07T20:35:54Z",
-				"lastModified": "2018-11-16T22:37:14Z",
+				"created": "2018-09-07",
+				"lastModified": "2018-11-16",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "Groovy",
+			"languages": [
+				"Groovy"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -1565,19 +2305,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/Sandbox",
 			"homepageURL": "https://github.com/ca-cwds/Sandbox",
 			"date": {
-				"created": "2017-04-18T16:12:37Z",
-				"lastModified": "2017-09-11T17:06:52Z",
+				"created": "2017-04-18",
+				"lastModified": "2017-09-11",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": null,
+			"languages": [
+				""
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -1586,19 +2336,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/service-manual-publisher",
 			"homepageURL": "https://github.com/ca-cwds/service-manual-publisher",
 			"date": {
-				"created": "2016-03-10T18:52:22Z",
-				"lastModified": "2016-03-10T18:52:23Z",
+				"created": "2016-03-10",
+				"lastModified": "2016-03-10",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "https://api.github.com/licenses/mit",
 					"name": "MIT License"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "Ruby",
+			"languages": [
+				"Ruby"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -1607,40 +2367,60 @@
 			"repositoryURL": "https://github.com/ca-cwds/swagger_specification",
 			"homepageURL": "https://github.com/ca-cwds/swagger_specification",
 			"date": {
-				"created": "2017-01-04T21:46:25Z",
-				"lastModified": "2017-01-04T21:46:25Z",
+				"created": "2017-01-04",
+				"lastModified": "2017-01-04",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": null,
+			"languages": [
+				""
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
 			"name": "system_information",
-			"description": null,
+			"description": "",
 			"repositoryURL": "https://github.com/ca-cwds/system_information",
 			"homepageURL": "https://github.com/ca-cwds/system_information",
 			"date": {
-				"created": "2018-10-31T17:10:40Z",
-				"lastModified": "2018-11-14T00:16:49Z",
+				"created": "2018-10-31",
+				"lastModified": "2018-11-13",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "https://api.github.com/licenses/agpl-3.0",
 					"name": "GNU Affero General Public License v3.0"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "Ruby",
+			"languages": [
+				"Ruby"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -1649,19 +2429,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/tag-prototype",
 			"homepageURL": "https://github.com/ca-cwds/tag-prototype",
 			"date": {
-				"created": "2018-05-10T23:39:33Z",
-				"lastModified": "2018-06-05T21:15:40Z",
+				"created": "2018-05-10",
+				"lastModified": "2018-06-05",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": null,
+			"languages": [
+				""
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -1670,19 +2460,29 @@
 			"repositoryURL": "https://github.com/ca-cwds/twixter",
 			"homepageURL": "https://github.com/ca-cwds/twixter",
 			"date": {
-				"created": "2017-05-11T15:41:35Z",
-				"lastModified": "2017-05-16T20:39:36Z",
+				"created": "2017-05-11",
+				"lastModified": "2017-05-16",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "Ruby",
+			"languages": [
+				"Ruby"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
@@ -1691,61 +2491,91 @@
 			"repositoryURL": "https://github.com/ca-cwds/web-design-standards",
 			"homepageURL": "https://github.com/ca-cwds/web-design-standards",
 			"date": {
-				"created": "2016-05-06T16:28:32Z",
-				"lastModified": "2016-12-08T20:41:35Z",
+				"created": "2016-05-06",
+				"lastModified": "2016-12-08",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "Other"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "JavaScript",
+			"languages": [
+				"JavaScript"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
 			"name": "webdocs",
-			"description": null,
+			"description": "",
 			"repositoryURL": "https://github.com/ca-cwds/webdocs",
 			"homepageURL": "https://github.com/ca-cwds/webdocs",
 			"date": {
-				"created": "2016-09-16T21:50:17Z",
-				"lastModified": "2017-04-24T21:44:20Z",
+				"created": "2016-09-16",
+				"lastModified": "2017-04-24",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "none",
 					"name": "none"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": null,
+			"languages": [
+				""
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		},
 		{
 			"organization": "CWDS",
 			"name": "woodduck-rails",
-			"description": null,
+			"description": "",
 			"repositoryURL": "https://github.com/ca-cwds/woodduck-rails",
 			"homepageURL": "https://github.com/ca-cwds/woodduck-rails",
 			"date": {
-				"created": "2017-06-20T19:33:26Z",
-				"lastModified": "2017-06-21T17:01:06Z",
+				"created": "2017-06-20",
+				"lastModified": "2017-06-21",
 				"metadataLastUpdated": "2019-01-14"
 			},
 			"permissions": {
 				"licenses": [{
 					"URL": "https://api.github.com/licenses/mit",
 					"name": "MIT License"
-				}]
+				}],
+				"usageType": "openSource"
 			},
-			"languages": "Ruby",
+			"languages": [
+				"Ruby"
+			],
 			"vcs": "git",
-			"tags": null
+			"tags": [
+				""
+			],
+			"laborHours": 0,
+			"contact": {
+				"name": "",
+				"email": ""
+			}
 		}
 	]
 }
