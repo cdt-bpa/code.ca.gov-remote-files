@@ -46,5 +46,21 @@
           "overallCompliance": 0
         },
         "complianceDashboard": true
+    },
+    {
+        "id": 4,
+        "name": "General Services Administration",
+        "acronym": "GSA",
+        "website": "https://18f.gsa.gov/"
+        "codeUrl": "https://raw.githubusercontent.com/ODI-BPA/code.ca.gov/master/18F.json",
+        "fallback_file": "18F.json",
+        "requirements": {
+          "agencyWidePolicy": 0.75,
+          "openSourceRequirement": 0,
+          "inventoryRequirement": 0,
+          "schemaFormat": 0.5,
+          "overallCompliance": 0
+        },
+        "complianceDashboard": true
     }
 ]
