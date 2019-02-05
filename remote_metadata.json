@@ -4,7 +4,7 @@
         "name": "California Department of Technology",
         "acronym": "CDT",
         "website": "https://cdt.ca.gov/",
-        "codeUrl": "https://raw.githubusercontent.com/ODI-BPA/code.ca.gov/master/code.json",
+        "codeUrl": "https://raw.githubusercontent.com/cdt-bpa/code.ca.gov-remote-files/master/code.json",
         "fallback_file": "CDT.json",
         "requirements": {
           "agencyWidePolicy": 0.75,
@@ -20,7 +20,7 @@
         "name": "Child Welfare Digital Services",
         "acronym": "CWDS",
         "website": "https://cwds.ca.gov/",
-        "codeUrl": "https://raw.githubusercontent.com/ODI-BPA/code.ca.gov/master/CWDS.json",
+        "codeUrl": "https://raw.githubusercontent.com/cdt-bpa/code.ca.gov-remote-files/master/CWDS.json",
         "fallback_file": "CWDS.json",
         "requirements": {
           "agencyWidePolicy": 0.75,
@@ -36,7 +36,7 @@
         "name": "California Health and Human Services",
         "acronym": "CHHS",
         "website": "https://cwds.ca.gov/",
-        "codeUrl": "https://raw.githubusercontent.com/ODI-BPA/code.ca.gov/master/CHHS.json",
+        "codeUrl": "https://raw.githubusercontent.com/cdt-bpa/code.ca.gov-remote-files/master/CHHS.json",
         "fallback_file": "CHHS.json",
         "requirements": {
           "agencyWidePolicy": 0.75,
@@ -52,7 +52,7 @@
         "name": "General Services Administration",
         "acronym": "GSA",
         "website": "https://18f.gsa.gov/",
-        "codeUrl": "https://raw.githubusercontent.com/ODI-BPA/code.ca.gov/master/GSA.json",
+        "codeUrl": "https://raw.githubusercontent.com/cdt-bpa/code.ca.gov-remote-files/master/GSA.json",
         "fallback_file": "GSA.json",
         "requirements": {
           "agencyWidePolicy": 0.75,
