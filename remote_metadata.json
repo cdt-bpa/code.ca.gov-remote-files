@@ -66,5 +66,22 @@
           "overallCompliance": 0
         },
         "complianceDashboard": true
+    },
+    {
+        "id": 5,
+        "name": "General Services Administration",
+        "acronym": "GSA",
+        "website": "https://18f.gsa.gov/",
+        "codeUrl": "",
+        "githubOrgName": "18F",
+        "fallback_file": "GSA.json",
+        "requirements": {
+          "agencyWidePolicy": 0.75,
+          "openSourceRequirement": 0,
+          "inventoryRequirement": 0,
+          "schemaFormat": 0.5,
+          "overallCompliance": 0
+        },
+        "complianceDashboard": true
     }
 ]
