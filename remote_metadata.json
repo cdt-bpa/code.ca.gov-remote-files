@@ -52,7 +52,7 @@
         "name": "General Services Administration",
         "acronym": "GSA",
         "website": "https://18f.gsa.gov/",
-        "codeUrl": "https://raw.githubusercontent.com/cdt-bpa/code.ca.gov-remote-files/master/GSA.json",
+        "codeUrl": "GSA",
         "fallback_file": "GSA.json",
         "requirements": {
           "agencyWidePolicy": 0.75,
