@@ -70,11 +70,11 @@
     {
         "id": 5,
         "name": "General Services Administration",
-        "acronym": "GSA",
+        "acronym": "18F",
         "website": "https://18f.gsa.gov/",
         "codeUrl": "",
         "githubOrgName": "18F",
-        "fallback_file": "GSA.json",
+        "fallback_file": "18F.json",
         "requirements": {
           "agencyWidePolicy": 0.75,
           "openSourceRequirement": 0,
